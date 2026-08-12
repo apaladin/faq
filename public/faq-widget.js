@@ -1,24 +1,36 @@
 /**
- * AI Highlights & FAQ accordion for the demo product page.
- * Fetches from the Express backend only — no OpenAI key in the browser.
+ * AI Highlights & FAQ accordion — storefront / Shopify theme script.
+ * Calls your Express backend only (OpenAI key stays on the server).
  *
- * Usage:
- *   <div id="ai-faq-root" data-product-id="your-product-id"></div>
- *   <script src="/faq-widget.js" defer></script>
+ * Shopify (recommended): paste the Liquid snippet from
+ *   shopify/snippets/ai-faq.liquid
  *
- * Optional on the root element:
- *   data-api-url=""     API origin (default: same origin)
+ * Manual:
+ *   <div id="ai-faq-root"></div>
+ *   <script
+ *     src="https://YOUR-SERVICE.onrender.com/faq-widget.js"
+ *     data-api-url="https://YOUR-SERVICE.onrender.com"
+ *     data-product-id="product-handle"
+ *     data-product-title="Title"
+ *     data-product-description="Description…"
+ *     data-product-price="25.00"
+ *     data-product-currency="AUD"
+ *     defer></script>
+ *
+ * Optional: data-show-regenerate="true" (hidden on storefront by default)
  */
 (function () {
   "use strict";
 
-  function $(sel, root) {
-    return (root || document).querySelector(sel);
-  }
+  var script =
+    document.currentScript ||
+    document.querySelector('script[src*="faq-widget"]');
 
-  function apiBase(root) {
-    var base = (root.getAttribute("data-api-url") || "").replace(/\/$/, "");
-    return base;
+  function attr(name, fallback) {
+    if (script && script.getAttribute(name) != null) {
+      return script.getAttribute(name);
+    }
+    return fallback;
   }
 
   function el(tag, className, text) {
@@ -46,11 +58,59 @@
       ".ai-faq-item .ai-faq-a{display:none;padding:0 0 14px;font-size:14px;line-height:1.55;color:#444}" +
       ".ai-faq-item.open .ai-faq-a{display:block}" +
       ".ai-faq-status{font-family:system-ui,-apple-system,sans-serif;font-size:13px;color:#666;padding:12px 0}" +
-      ".ai-faq-status.error{color:#a33}" +
-      ".ai-faq-actions{margin-top:16px;font-family:system-ui,-apple-system,sans-serif}" +
-      ".ai-faq-actions button{background:#1a1a1a;color:#fff;border:0;border-radius:6px;padding:8px 14px;font-size:13px;cursor:pointer}" +
-      ".ai-faq-actions button:disabled{opacity:.5;cursor:wait}";
+      ".ai-faq-status.error{color:#a33}";
     document.head.appendChild(style);
+  }
+
+  function productFrom(root) {
+    var id =
+      root.getAttribute("data-product-id") ||
+      attr("data-product-id", "") ||
+      "";
+    var title =
+      root.getAttribute("data-product-title") ||
+      attr("data-product-title", "") ||
+      "";
+    var description =
+      root.getAttribute("data-product-description") ||
+      attr("data-product-description", "") ||
+      "";
+    var price =
+      root.getAttribute("data-product-price") ||
+      attr("data-product-price", "") ||
+      "";
+    var currency =
+      root.getAttribute("data-product-currency") ||
+      attr("data-product-currency", "AUD") ||
+      "AUD";
+    var image =
+      root.getAttribute("data-product-image") ||
+      attr("data-product-image", "") ||
+      "";
+    return {
+      id: id,
+      title: title,
+      description: description,
+      price: price,
+      currency: currency,
+      image: image || null,
+    };
+  }
+
+  function apiBase(root) {
+    var fromRoot = root.getAttribute("data-api-url");
+    var base = (fromRoot != null ? fromRoot : attr("data-api-url", "")).replace(
+      /\/$/,
+      ""
+    );
+    return base;
+  }
+
+  function showRegenerate(root) {
+    var v =
+      root.getAttribute("data-show-regenerate") ||
+      attr("data-show-regenerate", "");
+    return v === "true" || v === "1";
   }
 
   function render(root, data) {
@@ -90,55 +150,89 @@
       wrap.appendChild(item);
     });
 
-    var actions = el("div", "ai-faq-actions");
-    var regen = el("button", null, "Regenerate");
-    regen.type = "button";
-    regen.addEventListener("click", function () {
-      load(root, { regenerate: true });
-    });
-    actions.appendChild(regen);
-    wrap.appendChild(actions);
+    if (showRegenerate(root)) {
+      var actions = el("div", "ai-faq-actions");
+      actions.style.marginTop = "16px";
+      var regen = el("button", null, "Regenerate");
+      regen.type = "button";
+      regen.style.cssText =
+        "background:#1a1a1a;color:#fff;border:0;border-radius:6px;padding:8px 14px;font-size:13px;cursor:pointer;font-family:system-ui,sans-serif";
+      regen.addEventListener("click", function () {
+        load(root, { force: true });
+      });
+      actions.appendChild(regen);
+      wrap.appendChild(actions);
+    }
 
     root.appendChild(wrap);
   }
 
   function showStatus(root, msg, isError) {
     root.innerHTML = "";
-    var p = el("p", "ai-faq-status" + (isError ? " error" : ""), msg);
-    root.appendChild(p);
+    root.appendChild(
+      el("p", "ai-faq-status" + (isError ? " error" : ""), msg)
+    );
   }
 
   async function load(root, opts) {
     opts = opts || {};
     injectStyles();
-    var productId = root.getAttribute("data-product-id");
-    if (!productId) {
-      showStatus(root, "Missing data-product-id on #ai-faq-root.", true);
+    var product = productFrom(root);
+    if (!product.id) {
+      showStatus(root, "Missing product id (use data-product-id).", true);
       return;
     }
 
     showStatus(
       root,
-      opts.regenerate
+      opts.force
         ? "Regenerating reviews & FAQ…"
-        : "Generating AI Highlights & FAQ…"
+        : "Loading AI Highlights & FAQ…"
     );
 
     var base = apiBase(root);
-    var url = opts.regenerate
-      ? base + "/api/faq/" + encodeURIComponent(productId) + "/regenerate"
-      : base + "/api/faq/" + encodeURIComponent(productId);
 
     try {
-      var res = await fetch(url, {
-        method: opts.regenerate ? "POST" : "GET",
-        headers: { Accept: "application/json" },
-      });
-      var body = await res.json().catch(function () {
-        return {};
-      });
-      if (!res.ok) {
-        throw new Error(body.error || "Request failed (" + res.status + ")");
+      var body;
+      if (product.title) {
+        var resPost = await fetch(base + "/api/faq", {
+          method: "POST",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            id: product.id,
+            title: product.title,
+            description: product.description || product.title,
+            price: product.price,
+            currency: product.currency,
+            image: product.image,
+            force: Boolean(opts.force),
+          }),
+        });
+        body = await resPost.json().catch(function () {
+          return {};
+        });
+        if (!resPost.ok) {
+          throw new Error(body.error || "Request failed (" + resPost.status + ")");
+        }
+      } else {
+        var path =
+          base +
+          "/api/faq/" +
+          encodeURIComponent(product.id) +
+          (opts.force ? "/regenerate" : "");
+        var resGet = await fetch(path, {
+          method: opts.force ? "POST" : "GET",
+          headers: { Accept: "application/json" },
+        });
+        body = await resGet.json().catch(function () {
+          return {};
+        });
+        if (!resGet.ok) {
+          throw new Error(body.error || "Request failed (" + resGet.status + ")");
+        }
       }
       render(root, body);
     } catch (err) {
@@ -150,9 +244,27 @@
     }
   }
 
-  function boot() {
+  function ensureRoot() {
     var root = document.getElementById("ai-faq-root");
-    if (!root) return;
+    if (root) return root;
+
+    // Auto-insert after add-to-cart form when Liquid didn't place a root.
+    root = document.createElement("div");
+    root.id = "ai-faq-root";
+    var form =
+      document.querySelector('form[action*="/cart/add"]') ||
+      document.querySelector("form.product-form") ||
+      document.querySelector("[data-product-form]");
+    if (form && form.parentNode) {
+      form.parentNode.insertBefore(root, form.nextSibling);
+    } else {
+      document.body.appendChild(root);
+    }
+    return root;
+  }
+
+  function boot() {
+    var root = ensureRoot();
     load(root);
   }
 

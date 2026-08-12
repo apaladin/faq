@@ -23,8 +23,31 @@ Edit products in [`public/products.json`](public/products.json). The OpenAI key 
 | Endpoint | Purpose |
 |---|---|
 | `GET /api/products` | List products from JSON |
-| `GET /api/faq/:productId` | Cached AI payload (generates on miss) |
+| `GET /api/faq/:productId` | Cached AI payload (from `products.json`) |
+| `POST /api/faq` | Generate from body `{ id, title, description, … }` (Shopify theme) |
 | `POST /api/faq/:productId/regenerate` | Force new reviews + FAQs |
+
+### React bundle for Shopify theme
+
+```sh
+npm run build:widget
+```
+
+Writes [`public/ai-faq-bundle.js`](public/ai-faq-bundle.js) (React IIFE). After deploy, it is served from your app host.
+
+**Your API URL is not `https://faq.railway.app`** — that is Railway’s own site. Use the domain from Railway → your service → Settings → Networking → **Generate Domain**, e.g. `https://YOUR-SERVICE.up.railway.app`. Confirm `…/health` returns `{"ok":true}` and `…/faq-demo.html` loads.
+
+1. Copy [`shopify/snippets/ai-faq.liquid`](shopify/snippets/ai-faq.liquid) into the theme as `snippets/ai-faq.liquid`.
+2. Replace every `YOUR_API_URL` with `https://YOUR-SERVICE.up.railway.app` (no trailing slash).
+3. Under Add to cart in `sections/main-product.liquid`:
+
+```liquid
+{% render 'ai-faq' %}
+```
+
+Optional: upload `ai-faq-bundle.js` to **Content → Files** and point the snippet `script src` at that Shopify Files URL instead.
+
+Set `ALLOWED_ORIGINS` to your storefront (or `*` for a quick demo).
 
 ### Free hosting (no paid server)
 

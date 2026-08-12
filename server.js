@@ -8,7 +8,6 @@ import {
   clearFaqCache,
   getCachedFaq,
   getOrGenerateFaq,
-  getProduct,
   loadProducts,
 } from "./lib/faq.js";
 
@@ -85,6 +84,11 @@ app.post("/chat", rateLimit, async (req, res) => {
 
 app.get("/health", (_req, res) => res.json({ ok: true }));
 
+// Root → FAQ demo (Railway/service URL alone has no index.html otherwise)
+app.get("/", (_req, res) => {
+  res.redirect(302, "/faq-demo.html");
+});
+
 // --- AI Highlights & FAQ demo ---
 app.get("/api/products", (_req, res) => {
   try {
@@ -97,11 +101,32 @@ app.get("/api/products", (_req, res) => {
 
 app.get("/api/faq/:productId", rateLimit, async (req, res) => {
   const { productId } = req.params;
-  if (!getProduct(productId)) {
-    return res.status(404).json({ error: "Product not found in products.json" });
-  }
   try {
     const payload = await getOrGenerateFaq(productId);
+    res.json(payload);
+  } catch (err) {
+    console.error("FAQ generate failed:", err);
+    const status = err.status === 404 ? 404 : 500;
+    res.status(status).json({
+      error: err.message || "Could not generate AI highlights & FAQ.",
+    });
+  }
+});
+
+// Shopify theme / clients can POST product fields so products.json is optional.
+// Body: { id?, title, description, price?, currency?, image?, force? }
+app.post("/api/faq", rateLimit, async (req, res) => {
+  const body = req.body ?? {};
+  const productId = String(body.id || "").trim();
+  if (!productId || !String(body.title || "").trim()) {
+    return res.status(400).json({ error: "id and title are required" });
+  }
+  try {
+    if (body.force) clearFaqCache(productId);
+    const payload = await getOrGenerateFaq(productId, {
+      force: Boolean(body.force),
+      product: body,
+    });
     res.json(payload);
   } catch (err) {
     console.error("FAQ generate failed:", err);
@@ -113,16 +138,18 @@ app.get("/api/faq/:productId", rateLimit, async (req, res) => {
 
 app.post("/api/faq/:productId/regenerate", rateLimit, async (req, res) => {
   const { productId } = req.params;
-  if (!getProduct(productId)) {
-    return res.status(404).json({ error: "Product not found in products.json" });
-  }
+  const body = req.body ?? {};
   try {
     clearFaqCache(productId);
-    const payload = await getOrGenerateFaq(productId, { force: true });
+    const payload = await getOrGenerateFaq(productId, {
+      force: true,
+      product: { ...body, id: productId },
+    });
     res.json(payload);
   } catch (err) {
     console.error("FAQ regenerate failed:", err);
-    res.status(500).json({
+    const status = err.status === 404 ? 404 : 500;
+    res.status(status).json({
       error: err.message || "Could not regenerate AI highlights & FAQ.",
     });
   }

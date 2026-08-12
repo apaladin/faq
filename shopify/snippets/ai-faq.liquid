@@ -1,0 +1,39 @@
+{% comment %}
+  AI Highlights & FAQ (React bundle)
+
+  IMPORTANT: Use YOUR Railway app URL, e.g.
+    https://YOUR-SERVICE.up.railway.app
+  NOT https://faq.railway.app (that is Railway's own site).
+
+  Setup:
+  1. Deploy this repo; confirm https://YOUR-SERVICE.up.railway.app/health
+     returns {"ok":true}
+  2. Replace EVERY YOUR_API_URL below (no trailing slash).
+  3. Themes → Edit code → Snippets → ai-faq.liquid (this file)
+  4. In sections/main-product.liquid under Add to cart:
+       {% render 'ai-faq' %}
+
+  Or upload public/ai-faq-bundle.js to Shopify Content → Files and
+  change the script src to that Files URL.
+{% endcomment %}
+
+{% if product %}
+  <div
+    id="ai-faq-root"
+    data-api-url="YOUR_API_URL"
+    data-product-id="{{ product.handle | escape }}"
+    data-product-title="{{ product.title | escape }}"
+    data-product-description="{{ product.description | strip_html | truncate: 800 | escape }}"
+    data-product-price="{{ product.selected_or_first_available_variant.price | money_without_currency | strip }}"
+    data-product-currency="{{ cart.currency.iso_code | default: shop.currency }}"
+    {% if product.featured_image %}
+      data-product-image="{{ product.featured_image | image_url: width: 800 }}"
+    {% endif %}
+  ></div>
+
+  <script
+    src="YOUR_API_URL/ai-faq-bundle.js"
+    data-api-url="YOUR_API_URL"
+    defer
+  ></script>
+{% endif %}

@@ -11,12 +11,6 @@
   margin: 0 0 8px;
   letter-spacing: -0.02em;
 }
-.ai-faq-sub {
-  font-family: system-ui, -apple-system, sans-serif;
-  font-size: 13px;
-  color: #666;
-  margin: 0 0 18px;
-}
 .ai-faq-highlights {
   list-style: none;
   padding: 0;

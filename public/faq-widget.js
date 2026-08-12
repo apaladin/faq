@@ -47,8 +47,8 @@
     style.textContent =
       ".ai-faq{margin-top:28px;border-top:1px solid #e5e5e5;padding-top:24px;font-family:Georgia,'Times New Roman',serif;color:#1a1a1a}" +
       ".ai-faq h2{font-size:1.25rem;font-weight:600;margin:0 0 8px;letter-spacing:-0.02em}" +
-      ".ai-faq .ai-faq-sub{font-family:system-ui,-apple-system,sans-serif;font-size:13px;color:#666;margin:0 0 18px}" +
       ".ai-faq-highlights{list-style:none;padding:0;margin:0 0 22px;font-family:system-ui,-apple-system,sans-serif}" +
+
       ".ai-faq-highlights li{position:relative;padding:8px 0 8px 22px;font-size:14px;line-height:1.45;border-bottom:1px solid #f0f0f0}" +
       ".ai-faq-highlights li:before{content:'';position:absolute;left:0;color:#2d6a4f;font-size:14px}" +
       ".ai-faq-item{border-bottom:1px solid #e8e8e8;font-family:system-ui,-apple-system,sans-serif}" +
@@ -117,13 +117,6 @@
     root.innerHTML = "";
     var wrap = el("section", "ai-faq");
     wrap.appendChild(el("h2", null, "AI Highlights & FAQ"));
-    wrap.appendChild(
-      el(
-        "p",
-        "ai-faq-sub",
-        "Generated from customer-style review insights (demo)."
-      )
-    );
 
     if (data.highlights && data.highlights.length) {
       var ul = el("ul", "ai-faq-highlights");

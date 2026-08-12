@@ -86,9 +86,6 @@ export default function AiFaqWidget({ apiUrl, product, showRegenerate = false })
   return (
     <section className="ai-faq">
       <h2>AI Highlights & FAQ</h2>
-      <p className="ai-faq-sub">
-        Generated from customer-style review insights (demo).
-      </p>
 
       {data.highlights?.length > 0 && (
         <ul className="ai-faq-highlights">

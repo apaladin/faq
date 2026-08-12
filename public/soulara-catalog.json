@@ -1,0 +1,5701 @@
+{
+ "source": "shopify-csv-export",
+ "products": [
+  {
+   "id": "yellow-seitan-curry-family",
+   "title": "Yellow Seitan Curry Family",
+   "description": "Thai-style yellow coconut curry of vegan \"duck\", green beans and broccoli with a side of fluffy white rice. Spice Level: Mild 🌶️ Ingredients: Basmati Rice (28%), Seitan (19%) ( Wheat Flour, Sugar, Salt, Spices, Natural Flavour), Coconut Milk (Coconut Milk, Stabilisers (415, 412, 407)), Carrot (11%), Broccoli (9%), Green Beans (6%), Yellow Curry Paste (3.5%), Coriander, Minced Garlic, Minced Ginger, Olive Oil. Allergen Contains: wheat, gluten Allergen May Contain: wheat, gluten, lupin, milk, soy",
+   "tags": [
+    "family-meal",
+    "High Protein",
+    "No Added Nuts",
+    "Plant-based",
+    "Size_Family",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Family Meals",
+   "price": "25.00",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 750000,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/yellow-seitan-curry_955a0ba5-9c35-48c0-9b35-4ffc706e3752.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/yellow-seitan-curry-family",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "salt-pepper-tofu-w-korean-noodles-size_large",
+   "title": "Salt & Pepper Tofu w Korean Noodles (Large)",
+   "description": "Delicious Szechuan-seasoned tofu served with sweet potato noodles, a steamed Asian slaw of red cabbage, white cabbage, shredded carrot and soybeans, and a wonderful ginger and shallot dressing. Ingredients: Sweet Potato Noodles (31%) (Sweet Potato Starch, Thickener (Sodium Alginate)), Firm Tofu (30%) (Water, Soybean , Firming Agent (516)), Spring Onion, Carrot (6%), Edamame (6%) ( Soybean ), Red Cabbage (6%), White Cabbage (6%), Olive Oil, Minced Ginger, Soy Sauce, Corn Flour, Sesame Oil (Contai",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "Large",
+    "New",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant Protein",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2126_aacac0ab-dfd6-4060-a688-0daa4e120bf2.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/salt-pepper-tofu-w-korean-noodles-size_large",
+   "nutrition": {
+    "calories": 626,
+    "kilojoules": 2620,
+    "protein_g": 27,
+    "fat_g": 31.2,
+    "saturated_fat_g": 4.3,
+    "carbs_g": 51.8,
+    "sugars_g": 6,
+    "fibre_g": 16.8,
+    "sodium_mg": 1320,
+    "calcium_mg": 777.2
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "sesame"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "lean-green-juice-size-300ml-1pack",
+   "title": "Lean & Green Juice",
+   "description": "This is a mighty juice. Clean, sweet and green from cold-pressed apple, celery, spinach, kale, lemon, cucumber and parsley. Amazing. Pack of 1",
+   "tags": [
+    "1",
+    "300ML",
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 1",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "5.05",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Lean_Green_Juice_Single.png?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/lean-green-juice-size-300ml-1pack",
+   "nutrition": {
+    "calories": 123,
+    "kilojoules": 513,
+    "protein_g": 2.9,
+    "fat_g": 0.5,
+    "saturated_fat_g": 0,
+    "carbs_g": 20.8,
+    "sugars_g": 20.3,
+    "fibre_g": 6.7,
+    "sodium_mg": 66
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "beet-treat-juice-size-300ml-1pack",
+   "title": "Beet Treat Juice",
+   "description": "An earthy and nourishing blend of cold-pressed beetroot, orange, apple and carrot juice. Pack of 1",
+   "tags": [
+    "1",
+    "300ML",
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 1",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "5.05",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Beet_Treat_Juice_Single.png?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/beet-treat-juice-size-300ml-1pack",
+   "nutrition": {
+    "calories": 118,
+    "kilojoules": 493,
+    "protein_g": 2.3,
+    "fat_g": 1,
+    "saturated_fat_g": 0,
+    "carbs_g": 26.1,
+    "sugars_g": 26,
+    "sodium_mg": 72
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "berry-smash-kombucha-size-350ml-1pack",
+   "title": "Berry Smash Kombucha",
+   "description": "Organic green tea long-aged kombucha with the natural essence of wild berries. Pack of 1",
+   "tags": [
+    "1",
+    "350ML",
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 1",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "4.25",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Berry_Smash_Kombucha_Single.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/berry-smash-kombucha-size-350ml-1pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "tarragon-mushroom-leek-risotto-family",
+   "title": "Tarragon Mushroom & Leek Risotto - Family",
+   "description": "Arborio rice simmered in white wine and vegetable stock, with button and Swiss brown mushrooms, leek, shredded kale and fresh tarragon and parsley. Delicious! Contains 4 x 300g Servings Ingredients: Water, Arborio Rice (18%), Mushroom (12%) (Mushroom, Water, Salt, Citric Acid), Swiss Brown Mushroom (12%), Leek (7%), Onion, Kale, White Wine (4.5%), Minced Garlic, Olive Pomace Oil, Parsley, Stock Powder, Nutritional Yeast, Tarragon (0.5%), White Pepper, Mixed Herbs, Salt. Allergen Contains: none A",
+   "tags": [
+    "Family",
+    "Mediterranean",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Soy",
+    "No Added Wheat",
+    "Plant-based",
+    "Size_Family",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Family Meals",
+   "price": "34.90",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 1200,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2194.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/tarragon-mushroom-leek-risotto-family",
+   "nutrition": {
+    "calories": 281,
+    "kilojoules": 1180,
+    "protein_g": 8,
+    "fat_g": 4.7,
+    "saturated_fat_g": 0.9,
+    "carbs_g": 46.9,
+    "sugars_g": 3.1,
+    "sodium_mg": 763
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "coconut-lime-kombucha-size-350ml-1pack",
+   "title": "Coconut & Lime Kombucha",
+   "description": "Organic green tea long-aged kombucha with the natural essence of coconut and lime. Pack of 1",
+   "tags": [
+    "1",
+    "350ML",
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 1",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "4.25",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Coconut_Lime_Kombucha_Single.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/coconut-lime-kombucha-size-350ml-1pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "turmeric-ginger-pear-kombucha-size-350ml-1pack",
+   "title": "Turmeric, Ginger & Pear Kombucha",
+   "description": "Organic green tea long-aged kombucha with the natural essence of turmeric, ginger and pear. Pack of 1",
+   "tags": [
+    "1",
+    "350ML",
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 1",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "4.25",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Turmeric_Ginger_Pear_Kombucha_Single.png?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/turmeric-ginger-pear-kombucha-size-350ml-1pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "meltin-mac-n-veg-size_medium",
+   "title": "Meltin' Mac n Veg (Medium)",
+   "description": "Craving creamy mac 'n' cheese? Treat yourself to our mouthwatering baked plant-based mac and cheese, with a side of roasted pumpkin, sweet potato, and beetroot for a flavourful twist that’ll satisfy every bite. Ingredients: Soy Milk (32%) (Filtered Water, Soy Protein, Corn Maltodextrin, Vegetable Oils (Sunflower, Canola), Cane Sugar, Minerals (Calcium, Phosphorus, Magnesium), Acidity Regulators (332, 450), Antioxidant (Ascorbic Acid), Vitamins (B12, D2, A, B2, B1), Natural Flavour), Pasta (23%) ",
+   "tags": [
+    "American",
+    "High Protein",
+    "New",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Pasta",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a4-eat-healthier-e-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2235_VeganBakedMac_Cheese_Bowl.jpg?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/meltin-mac-n-veg-size_medium",
+   "nutrition": {
+    "calories": 452,
+    "kilojoules": 1890,
+    "protein_g": 16.2,
+    "fat_g": 18.2,
+    "saturated_fat_g": 3.6,
+    "carbs_g": 51.3,
+    "sugars_g": 13.5,
+    "fibre_g": 8.7,
+    "sodium_mg": 1450,
+    "calcium_mg": 281.3
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "plant-based-hazelnut-protein-bar",
+   "title": "Plant-Based Hazelnut Protein Bar",
+   "description": "Bite into decadent dairy-free dark chocolate coating to experience pure smooth hazelnut heaven. The flavour is indulgent and delicious without the guilt of a confectionery bar. With each mouth-watering bite, you'll savour the perfect blend of sweet and nutty. You'll satisfy your cravings but also support your wellness goals. This protein bar offer a good source of protein and fibre, and are free from preservatives, gluten and dairy. Pack of 1",
+   "tags": [
+    "Bars",
+    "Pack of 1",
+    "Size_50g",
+    "Snacks"
+   ],
+   "productType": "Snacks",
+   "price": "4.25",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 50,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Greenback_HAZELNUTProteinBar.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/plant-based-hazelnut-protein-bar",
+   "nutrition": {
+    "calories": 224,
+    "kilojoules": 935,
+    "protein_g": 11,
+    "fat_g": 12.4,
+    "saturated_fat_g": 4.1,
+    "carbs_g": 13.3,
+    "sugars_g": 10.4,
+    "fibre_g": 7.7,
+    "sodium_mg": 106
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "cashew"
+    ],
+    "mayContain": [
+     "milk",
+     "peanut",
+     "sesame",
+     "almond",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "walnut",
+     "brazil nut",
+     "pistachio"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "finger-lime-coconut-superfood-bar",
+   "title": "Finger Lime & Coconut Superfood Bar",
+   "description": "Finger Lime & Coconut superfood snack bars are a healthy snack made with local Indigenous Finger Lime. The fruit of a rare rainforest tree, the Finger Lime has been a valuable source of food and medicine for Aboriginal people for thousands of years. Bursting with zesty flavour, Finger Limes are rich in folate, potassium and Vitamin E. Perfect as a breakfast bar on the go. Pack of 1",
+   "tags": [
+    "Bars",
+    "Pack of 1",
+    "size_45g",
+    "Snacks"
+   ],
+   "productType": "Snacks",
+   "price": "4.79",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 45,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/BSKT-superfood-bar-FLC-mockup-front.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/finger-lime-coconut-superfood-bar",
+   "nutrition": {
+    "calories": 142.5,
+    "kilojoules": 595.8,
+    "protein_g": 1.8,
+    "fat_g": 10.7,
+    "saturated_fat_g": 4.8,
+    "carbs_g": 14.7,
+    "sugars_g": 6.6,
+    "sodium_mg": 6.7
+   },
+   "allergens": {
+    "contains": [
+     "cashews"
+    ],
+    "mayContain": [
+     "almonds",
+     "brazil nuts",
+     "cashews",
+     "hazelnuts",
+     "macadamias",
+     "milk",
+     "pecans",
+     "pistachios",
+     "sesame",
+     "walnuts"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "salted-caramel-protein-bar",
+   "title": "Salted Caramel Protein Bar",
+   "description": "Salted Caramel protein bars are a healthy snack made with all natural and native ingredients including Old Man Saltbush. Saltbush is naturally rich in Calcium and Antioxidants. These bars provide a healthy, plant-based source of protein and make a delicious treat for any occasion. Perfect as a post gym or pre gym snack, or as a healthy meal replacement for when life's just too busy. Pack of 1",
+   "tags": [
+    "Bars",
+    "Pack of 1",
+    "size_45g",
+    "Snacks"
+   ],
+   "productType": "Snacks",
+   "price": "4.79",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 45,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/BSKT-protein-bar-SC-mockup-front.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/salted-caramel-protein-bar",
+   "nutrition": {
+    "calories": 193.8,
+    "kilojoules": 811,
+    "protein_g": 11.2,
+    "fat_g": 9.4,
+    "saturated_fat_g": 3.5,
+    "carbs_g": 8.5,
+    "sugars_g": 4,
+    "sodium_mg": 102
+   },
+   "allergens": {
+    "contains": [
+     "peanuts"
+    ],
+    "mayContain": [
+     "almonds",
+     "brazil nuts",
+     "cashews",
+     "hazelnuts",
+     "macadamias",
+     "milk",
+     "pecans",
+     "pistachios",
+     "sesame",
+     "walnuts"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "roasted-pumpkin-penne-size_medium",
+   "title": "Roasted Pump'kin Penne (Medium)",
+   "description": "Dive into the ultimate pumpkin delight with this irresistible dish! Penne pasta enveloped in a scrumptious pumpkin sauce—it's a symphony of flavours that will have your taste buds dancing with joy! Ingredients: Pasta (37%) (Durum Wheat Semolina), Butternut Pumpkin (28%), Zucchini (14%), Plant Based Cream (5%) (Lentil Milk (Water, Lentil Protein), Vegetable Oil, Sugar, Modified Corn Starch, Emulsifiers (Sucrose, Esters Of Fatty Acids, Mono-and Diglycerides Of Fatty Acids, Sunflower Lecithin) Vege",
+   "tags": [
+    "High Protein",
+    "Italian",
+    "New",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Pasta",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a2-your-option-2-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2234_RoastedPumpkinPenne_Bowl.jpg?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/roasted-pumpkin-penne-size_medium",
+   "nutrition": {
+    "calories": 372,
+    "kilojoules": 1560,
+    "protein_g": 10,
+    "fat_g": 13.1,
+    "saturated_fat_g": 4.4,
+    "carbs_g": 50.5,
+    "sugars_g": 16,
+    "fibre_g": 5.7,
+    "sodium_mg": 842
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "soy",
+     "sulphites",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "indian-mushroom-nuggie-saag-size_large",
+   "title": "Indian Mushroom Nuggie Saag (Large)",
+   "description": "Mushroom nuggets and a creamy yet dairy-free Indian saag from spinach and coconut cream flavourful with garlic, ginger, fenugreek, garam masala and a pinch of chilli. Served with basmati rice. Spice Level: Mild 🌶️ Ingredients: Basmati Rice (33%), Mushroom Nuggets (22%) (Mushroom, Textured Soy Protein ( Soy Protein, Wheat Flour, Vegetable Oil), Vegetable Gum, Soy Flour, Vegetable Oil, Vegetarian Seasonings, Salt), Spinach (17%), Coconut Cream (11%) (Coconut Cream, Stabilisers (415, 412, 407)), O",
+   "tags": [
+    "Glutenfree",
+    "High Protein",
+    "Indian",
+    "Large",
+    "New",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2200_Indian-Mushroom-Nuggie-Saag.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/indian-mushroom-nuggie-saag-size_large",
+   "nutrition": {
+    "calories": 763,
+    "kilojoules": 3190,
+    "protein_g": 25.4,
+    "fat_g": 37.9,
+    "saturated_fat_g": 24.5,
+    "carbs_g": 67,
+    "sugars_g": 10.9,
+    "fibre_g": 27.5,
+    "sodium_mg": 991,
+    "calcium_mg": 281.9
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "shakshuka-w-mushroom-tofu-size_medium",
+   "title": "Shakshuka w Mushroom & Tofu (Medium)",
+   "description": "Our shakshuka is purely plant-based of course, made from crushed tomatoes, cannellini beans and chickpeas cooked with onion, garlic, paprika, ground coriander, allspice and sweet paprika, with fresh basil and parsley. And instead of baked eggs, Swiss and button mushrooms and tofu seasoned and baked with cumin, sweet paprika, thyme, fresh oregano and nutritional yeast for a hit of umami goodness. Ingredients: Crushed Tomato (28%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Firm Tofu ",
+   "tags": [
+    "Calorie Controlled",
+    "Glutenfree",
+    "High Protein",
+    "Mediterranean",
+    "Middle Eastern",
+    "New",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Spring",
+    "Veg-Loaded",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2203_05267486-ba60-4fbb-946a-f977bb8e4777.jpg?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/shakshuka-w-mushroom-tofu-size_medium",
+   "nutrition": {
+    "calories": 308,
+    "kilojoules": 1290,
+    "protein_g": 20.7,
+    "fat_g": 11.3,
+    "saturated_fat_g": 1.6,
+    "carbs_g": 22.6,
+    "sugars_g": 6.2,
+    "fibre_g": 16.5,
+    "sodium_mg": 974,
+    "calcium_mg": 424.8
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "most-loved-vegan-pack-5-meals",
+   "title": "Most Loved Vegan Pack (5 Meals)",
+   "description": "Want a little S o ulara taster? Our lil five-pack is a great pl ace to start. These vegan-friendly faves are some of our best-selling meals, loved by thousands of Soulara customers every week. All crafted from quality produce, locally sourced where possible, with recipes inspired by the best of global cuisine. Enjoy!",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "60.69",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/3.png?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/most-loved-vegan-pack-5-meals",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "asian-favorites-vegan-pack-6-meals",
+   "title": "Asian Favorites Vegan Pack (6 Meals)",
+   "description": "From Thailand to China and Malaysia to Japan, here are six Asian-inspired classics given a delicious vegan twist. Enjoy all your favourites filled with the flavours you know and love. All vegan-friendly, chef-crafted from amazing, high-quality produce and delivered fresh, never frozen .",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "72.82",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/6.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/asian-favorites-vegan-pack-6-meals",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "weight-loss-vegetarian-pack-8-meals",
+   "title": "Weight Loss Vegetarian Pack (8 Meals)",
+   "description": "Looking to cut your calories? It ’s easy with our Weight Loss Vegetarian Pack . Eight amazing vegetarian and vegan-friendly ready meals - al l under 400 calories and on your table in just 3 minutes. Such an easy and delicious way to manage your calorie intake , all while enjoying the goodness of a plant- rich , plant-based diet.",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "97.10",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/7.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/weight-loss-vegetarian-pack-8-meals",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "chefs-top-picks-vegetarian-pack-10-meals",
+   "title": "Chef's Top Picks Vegetarian Pack (10 Meals)",
+   "description": "Dive into these ten chefs’ fav es to experience the best of Soulara . Ten AMAZING vegetarian and vegan-friendly ready meals filled with flavour . All crafted from quality produce, locally sourced where possible , with recipes inspired by the best of global cuisine.",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "121.37",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/4.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/chefs-top-picks-vegetarian-pack-10-meals",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "greek-style-pasta-bake-size_large",
+   "title": "Greek-Style Pasta Bake (Large)",
+   "description": "A hearty plant-based pasta bake simmered in white wine with tomato, eggplant, onion, celery and carrot, seasoned with warming spices like oregano, cloves and cinnamon. Baked with penne and topped with a creamy vegan bechamel, now served with a side of vibrant steamed broccoli for extra colour and goodness. Ingredients: Soy Milk (22%) (Filtered Water, Soy Protein, Corn Maltodextrin, Vegetable Oils (Sunflower, Canola), Cane Sugar, Minerals (Calcium, Phosphorus, Magnesium), Acidity Regulators (332,",
+   "tags": [
+    "Bestsellers",
+    "High Protein",
+    "Large",
+    "Mediterranean",
+    "New",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Plant Protein",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2212_NEW_Pasta-Bake.jpg?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/greek-style-pasta-bake-size_large",
+   "nutrition": {
+    "calories": 569,
+    "kilojoules": 2380,
+    "protein_g": 26.7,
+    "fat_g": 28.3,
+    "saturated_fat_g": 6,
+    "carbs_g": 46.5,
+    "sugars_g": 10.1,
+    "fibre_g": 11.5,
+    "sodium_mg": 891,
+    "calcium_mg": 329.6
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "high-protein-plant-based-pack-10-meals",
+   "title": "High Protein Plant-Based Pack (10 Meals)",
+   "description": "It’s easy to meet your daily protein needs with our High Protein Plant-Based Pack. Ten delicious plant-based ready meals with up to 34 grams of lean, healthy plant protein. If you’re done with thinking about protein every day, this is a delicious and easy way to get yourself sorted.",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "121.37",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/2.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/high-protein-plant-based-pack-10-meals",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "high-protein-vegan-pack-7-meals",
+   "title": "High Protein Vegan Pack (7 Meals)",
+   "description": "It’s easy to meet your daily protein needs with our High Protein Vegan Pack . Seven delicious vegan-friendly ready meals with up to 34 grams of lean, healthy plant protein. If you’re done with thinking about protein every day , this is a delicious and easy way to get yourself sorted.",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "84.96",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/1.png?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/high-protein-vegan-pack-7-meals",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "terrific-teriyaki-bowl-size_large",
+   "title": "Terrific Teriyaki Bowl (Large)",
+   "description": "Plant-based mince brings protein sass to this staff fave. It works perfectly with our house-made teriyaki sauce from dark soy, ginger, garlic, sesame and mirin. Served with fluffy white rice and a vibrant Asian greens for a colourful, craveable meal. Ingredients: Basmati Rice (35%) , Plant-based Mince (24%) (Water, Soy Protein, Vegetable Oils, Dextrose, Yeast Extracts, Salt, Colour (150a), Beetroot Powder, Onion Powder), Carrot (10%), Onion, Red Capsicum (5%), Choy Sum (4%), Sesame Oil ( Contain",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "Large",
+    "New",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Plant Protein",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2205_NEW_Terrific-Teriyaki.jpg?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/terrific-teriyaki-bowl-size_large",
+   "nutrition": {
+    "calories": 708,
+    "kilojoules": 2960,
+    "protein_g": 32.2,
+    "fat_g": 25.3,
+    "saturated_fat_g": 5.9,
+    "carbs_g": 80.6,
+    "sugars_g": 19.7,
+    "fibre_g": 13.7,
+    "sodium_mg": 1880
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy",
+     "sesame"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "banging-bangers-n-mash-size_large",
+   "title": "Banging Bangers n Mash (Large)",
+   "description": "If you've been missing sausages, this dish is for you. Amazing plant-protein sausages paired with black garlic mashed potatoes, green peas, and a relish of slowly cooked onion, fennel and tomato. A classic made colourful – and plant-based. Ingredients: Potato (38%) , P lant Protein Sausage (28%) (Water, Soy Protein, Vegetable Oils, Seasoning (3.8%) (Spices, Sodium Tripolyphosphate, Vegetable Powders, Herb, Herb Extract, Spice Extract), Thickeners (Methyl Cellulose, Modified Corn Starch), Flavour",
+   "tags": [
+    "Bestsellers",
+    "European",
+    "High Protein",
+    "Large",
+    "New",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2201_Banging-Mash.jpg?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/banging-bangers-n-mash-size_large",
+   "nutrition": {
+    "calories": 599,
+    "kilojoules": 25100,
+    "protein_g": 29.6,
+    "fat_g": 31.3,
+    "saturated_fat_g": 8.3,
+    "carbs_g": 40.8,
+    "sugars_g": 9.1,
+    "fibre_g": 18.4,
+    "sodium_mg": 941
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "shakshuka-w-mushroom-tofu-size_large",
+   "title": "Shakshuka w Mushroom & Tofu (Large)",
+   "description": "Our shakshuka is purely plant-based of course, made from crushed tomatoes, cannellini beans and chickpeas cooked with onion, garlic, paprika, ground coriander, allspice and sweet paprika, with fresh basil and parsley. And instead of baked eggs, Swiss and button mushrooms and tofu seasoned and baked with cumin, sweet paprika, thyme, fresh oregano and nutritional yeast for a hit of umami goodness. Ingredients: Crushed Tomato (28%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Firm Tofu ",
+   "tags": [
+    "Calorie Controlled",
+    "Glutenfree",
+    "High Protein",
+    "Large",
+    "Mediterranean",
+    "Middle Eastern",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Spring",
+    "Veg-Loaded",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2203_5c241e80-cd67-485b-beb0-4b1f0d925cc9.jpg?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/shakshuka-w-mushroom-tofu-size_large",
+   "nutrition": {
+    "calories": 394,
+    "kilojoules": 1650,
+    "protein_g": 26.4,
+    "fat_g": 14.2,
+    "saturated_fat_g": 2,
+    "carbs_g": 29.3,
+    "sugars_g": 8,
+    "fibre_g": 21.3,
+    "sodium_mg": 1240,
+    "calcium_mg": 539
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "terrific-teriyaki-bowl-size_medium",
+   "title": "Terrific Teriyaki Bowl (Medium)",
+   "description": "Plant-based mince brings protein sass to this staff fave. It works perfectly with our house-made teriyaki sauce from dark soy, ginger, garlic, sesame and mirin. Served with fluffy white rice and a vibrant Asian greens for a colourful, craveable meal. Ingredients: Basmati Rice (34%), Plant-based Mince (24%) (Water, Soy Protein, Vegetable Oils, Dextrose, Yeast Extracts, Salt, Colour (150a), Beetroot Powder, Onion Powder), Carrot (10%), Onion, Red Capsicum (6%), Choy Sum (4.5%), Sesame Oil ( Contai",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Plant Protein",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2205_NEW_Terrific-Teriyaki.jpg?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/terrific-teriyaki-bowl-size_medium",
+   "nutrition": {
+    "calories": 545,
+    "kilojoules": 2280,
+    "protein_g": 24.9,
+    "fat_g": 19.8,
+    "saturated_fat_g": 4.6,
+    "carbs_g": 61.3,
+    "sugars_g": 15.5,
+    "fibre_g": 10.7,
+    "sodium_mg": 1480
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy",
+     "sesame"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "greek-style-pasta-bake-size_medium",
+   "title": "Greek-Style Pasta Bake (Medium)",
+   "description": "A hearty plant-based pasta bake simmered in white wine with tomato, eggplant, onion, celery and carrot, seasoned with warming spices like oregano, cloves and cinnamon. Baked with penne and topped with a creamy vegan bechamel, now served with a side of vibrant steamed broccoli for extra colour and goodness. Ingredients: Soy Milk (24%) (Filtered Water, Soy Protein, Corn Maltodextrin, Vegetable Oils (Sunflower, Canola), Cane Sugar, Minerals (Calcium, Phosphorus, Magnesium), Acidity Regulators (332,",
+   "tags": [
+    "Bestsellers",
+    "High Protein",
+    "Mediterranean",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2212_NEW_Pasta-Bake.jpg?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/greek-style-pasta-bake-size_medium",
+   "nutrition": {
+    "calories": 474,
+    "kilojoules": 1990,
+    "protein_g": 21.7,
+    "fat_g": 23.7,
+    "saturated_fat_g": 5.1,
+    "carbs_g": 39.4,
+    "sugars_g": 8.2,
+    "fibre_g": 8.8,
+    "sodium_mg": 733,
+    "calcium_mg": 273.2
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "indian-mushroom-nuggie-saag-size_medium",
+   "title": "Indian Mushroom Nuggie Saag (Medium)",
+   "description": "Mushroom nuggets and a creamy yet dairy-free Indian saag from spinach and coconut cream flavourful with garlic, ginger, fenugreek, garam masala and a pinch of chilli. Served with basmati rice. Spice Level: Mild 🌶️ Ingredients: Basmati Rice (31%), Mushroom Nuggets (23%) (Mushroom, Textured Soy Protein ( Soy Protein, Wheat Flour, Vegetable Oil), Vegetable Gum, Soy Flour, Vegetable Oil, Vegetarian Seasonings, Salt), Spinach (18%), Coconut Cream (11%) (Coconut Cream, Stabilisers (415, 412, 407)), O",
+   "tags": [
+    "Glutenfree",
+    "High Protein",
+    "Indian",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2200_Indian-Mushroom-Nuggie-Saag.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/indian-mushroom-nuggie-saag-size_medium",
+   "nutrition": {
+    "calories": 595,
+    "kilojoules": 2490,
+    "protein_g": 20,
+    "fat_g": 30.3,
+    "saturated_fat_g": 19.6,
+    "carbs_g": 50.2,
+    "sugars_g": 8.3,
+    "fibre_g": 21.9,
+    "sodium_mg": 798,
+    "calcium_mg": 225.3
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "winter-meal-bundle",
+   "title": "Winter Meal Bundle (Medium)",
+   "description": "Featuring the best winter foods to help you through the cold months and dark days . Including seven hearty winter dishes new on our 2024 winter menu . All h igh in protein and with up to two serves of veg for winter fuel with all the winter feels.",
+   "tags": [
+    "bundle",
+    "featured",
+    "No Added Dairy",
+    "Size_Medium"
+   ],
+   "productType": "",
+   "price": "86.10",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Soulara2024WinterBundle.webp?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/winter-meal-bundle",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "banging-bangers-n-mash-size_medium",
+   "title": "Banging Bangers n Mash (Medium)",
+   "description": "If you've been missing sausages, this dish is for you. Amazing plant-protein sausages paired with black garlic mashed potatoes, green peas, and a relish of slowly cooked onion, fennel and tomato. A classic made colourful – and plant-based. Ingredients: Potato (40%), Plant Protein Sausage (28%) (Water, Soy Protein, Vegetable Oils, Seasoning (3.8%) (Spices, Sodium Tripolyphosphate, Vegetable Powders, Herb, Herb Extract, Spice Extract), Thickeners (Methyl Cellulose, Modified Corn Starch), Flavour (",
+   "tags": [
+    "Bestsellers",
+    "European",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2201_Banging-Mash.jpg?v=1778758626",
+   "url": "https://dev-soulara.myshopify.com/products/banging-bangers-n-mash-size_medium",
+   "nutrition": {
+    "calories": 444,
+    "kilojoules": 1860,
+    "protein_g": 21,
+    "fat_g": 22.3,
+    "saturated_fat_g": 5.7,
+    "carbs_g": 32.9,
+    "sugars_g": 7.4,
+    "fibre_g": 13.8,
+    "sodium_mg": 672
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "high-protein",
+   "title": "High Protein",
+   "description": "Featuring delicious plant-based meals packed with protein and with no more than 500 calories per serve, the high protein bundle is an easy way to meet your daily protein requirements. Meals in the bundle are pre-selected with high protein customer favourites , but it’s easy to swap them for your own.",
+   "tags": [
+    "badge__high protein",
+    "bundle",
+    "featured",
+    "High Protein"
+   ],
+   "productType": "Bundle",
+   "price": "96.00",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/sol-bundle-highprotien1.jpg?v=1778758625",
+   "url": "https://dev-soulara.myshopify.com/products/high-protein",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "sweet-sour-tofu-size_large",
+   "title": "Sweet & Sour Tofu (Large)",
+   "description": "Classic flavours of high street Chinese, given a plant-based twist. Hard tofu seasoned and baked, served in a sweet and sour sauce of red and green capsicum, pineapple, shallots and onion. Ingredients: Firm Tofu (26%) (Water, Soybean , Firming Agent (516)), Brown Rice (24%), Broccoli (18%), Tomato Sauce (Concentrated Tomato, Sugar, Salt, Food Acid (260), Natural Flavours), Spring Onion, Green Capsicum (2.5%), Onion, Pineapple (2.5%), Pineapple Juice, Red Capsicum (2.5%), Apple Cider Vinegar, Coc",
+   "tags": [
+    "Asian",
+    "High Protein",
+    "Large",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2114-SweetandSourTofu_088efdb1-0b8d-4e7f-893d-239b3280729d.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/sweet-sour-tofu-size_large",
+   "nutrition": {
+    "calories": 584,
+    "kilojoules": 2440,
+    "protein_g": 26.7,
+    "fat_g": 23.8,
+    "saturated_fat_g": 3.4,
+    "carbs_g": 59,
+    "sugars_g": 20.2,
+    "fibre_g": 11.4,
+    "sodium_mg": 904,
+    "calcium_mg": 564.2
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "sesame"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "tarragon-mushroom-leek-risotto-size_medium",
+   "title": "Tarragon Mushroom & Leek Risotto (Medium)",
+   "description": "A deliciously creamy vegan-friendly risotto of Arborio rice cooked in white wine and vegetable stock with leek, button and Swiss brown mushrooms and kale. Infused with the herbilicious flavours of tarragon, parsley and assorted mixed Italian herbs. Ingredients: Water, Arborio Rice (18%), Mushroom (12%) (Mushroom, Water, Salt, Citric Acid), Swiss Brown Mushroom (12%), Leek (7%), Onion, Kale, White Wine (4.5%), Minced Garlic, Olive Pomace Oil, Parsley, Stock Powder, Nutritional Yeast, Tarragon (0.",
+   "tags": [
+    "Calorie Controlled",
+    "European",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2194.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/tarragon-mushroom-leek-risotto-size_medium",
+   "nutrition": {
+    "calories": 337,
+    "kilojoules": 1410,
+    "protein_g": 10.1,
+    "fat_g": 6,
+    "saturated_fat_g": 1.5,
+    "carbs_g": 57.2,
+    "sugars_g": 4.8,
+    "fibre_g": 5.2,
+    "sodium_mg": 935
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "sweet-sour-tofu-size_medium",
+   "title": "Sweet & Sour Tofu (Medium)",
+   "description": "Classic flavours of high street Chinese, given a plant-based twist. Hard tofu seasoned and baked, served in a sweet and sour sauce of red and green capsicum, pineapple, shallots and onion. Ingredients: Firm Tofu (25%) (Water, Soybean , Firming Agent (516)), Brown Rice (24%), Broccoli (20%), Tomato Sauce (Concentrated Tomato, Sugar, Salt, Food Acid (260), Natural Flavours), Spring Onion, Green Capsicum (2.5%), Onion, Pineapple (2.5%), Pineapple Juice, Red Capsicum (2.5%), Apple Cider Vinegar, Coc",
+   "tags": [
+    "Asian",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2114-SweetandSourTofu.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/sweet-sour-tofu-size_medium",
+   "nutrition": {
+    "calories": 446,
+    "kilojoules": 1870,
+    "protein_g": 20.4,
+    "fat_g": 18.1,
+    "saturated_fat_g": 2.6,
+    "carbs_g": 45.1,
+    "sugars_g": 15.3,
+    "fibre_g": 8.9,
+    "sodium_mg": 689,
+    "calcium_mg": 425.9
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "sesame"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "dynamic-bundle",
+   "title": "Custom Plan",
+   "description": "",
+   "tags": [
+    "bundle"
+   ],
+   "productType": "Bundle",
+   "price": "0.00",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Menu-SOL-BundlesLarge_427934a2-3ede-4984-9632-fffaa73a2db2.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/dynamic-bundle",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "cold-pressed-vitamin-c-booster-size-300ml-3pack",
+   "title": "Cold Pressed Vitamin C Booster Pack of 3",
+   "description": "Nothing beats a delicious glass of OJ, the mother of all juices. Ours is cold-pressed from nothing but the sweetest, tastiest oranges we can find. Pack of 3 Ingredients: Orange (100%) Allergen Contains: none Nutritional Information: Average quantity per serve: 300ml Energy: 459kJ/ 110Cal Protein: 1.9g Fat,total: 0g - saturated: 0g Carbohydrate: 24.6g - sugar: 24.6g Sodium: 9mg Thiamine: 0.2mg Niacin: 1.9m g Vitamin C: 139mg Average quantity per serve: 100g Energy: 153kJ/ 36Cal Protein: 0.6g Fat,",
+   "tags": [
+    "1",
+    "300ML",
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "12.95",
+   "compareAtPrice": "15.15",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/cz3opccmbzsayf1my90u.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/cold-pressed-vitamin-c-booster-size-300ml-3pack",
+   "nutrition": {
+    "calories": 110,
+    "kilojoules": 459,
+    "protein_g": 1.9,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 24.6,
+    "sugars_g": 24.6,
+    "sodium_mg": 9
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "organic-kombucha-turmeric-ginger-pear-size-350ml-3pack",
+   "title": "Organic Kombucha Turmeric, Ginger & Pear Pack of 3",
+   "description": "Organic green tea long-aged kombucha with the natural essence of turmeric, ginger and pear. Pack of 3",
+   "tags": [
+    "1",
+    "350ML",
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "10.60",
+   "compareAtPrice": "12.75",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/bvselrj8dc97slhqxmf3.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/organic-kombucha-turmeric-ginger-pear-size-350ml-3pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "organic-kombucha-berry-smash-size-350ml-3pack",
+   "title": "Organic Kombucha Berry Smash Pack of 3",
+   "description": "Organic green tea long-aged kombucha with the natural essence of wild berries. Pack of 3",
+   "tags": [
+    "1",
+    "350ML",
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "10.60",
+   "compareAtPrice": "12.75",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/kdkyslimfhhiq6iltylc.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/organic-kombucha-berry-smash-size-350ml-3pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "organic-kombucha-coconut-lime-size-350ml-3pack",
+   "title": "Organic Kombucha Coconut & Lime Pack of 3",
+   "description": "Organic green tea long-aged kombucha with the natural essence of coconut and lime. Pack of 3",
+   "tags": [
+    "1",
+    "350ML",
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "10.60",
+   "compareAtPrice": "12.75",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/guxfjdspljpa8sstqgct.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/organic-kombucha-coconut-lime-size-350ml-3pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "healing-detoxifying-organic-kombucha-variety-pack-size-350ml-3pack",
+   "title": "Healing & Detoxifying Organic Kombucha Variety Pack of 3",
+   "description": "A three-pack power combo of our most popular Organic Kombuchas: Berry Smash, Turmeric Ginger & Pear, and Coconut & Lime. Pack of 3",
+   "tags": [
+    "Drinks",
+    "Organic Kombucha",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "10.60",
+   "compareAtPrice": "12.75",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/mpa7rvef335ozyxaono5.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/healing-detoxifying-organic-kombucha-variety-pack-size-350ml-3pack",
+   "nutrition": {
+    "calories": 25,
+    "kilojoules": 105,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 5,
+    "sugars_g": 0,
+    "sodium_mg": 17.5
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "cold-pressed-beet-treat-size-300ml-3pack",
+   "title": "Cold Pressed Beet Treat Pack of 3",
+   "description": "An earthy and nourishing blend of cold-pressed beetroot, orange, apple and carrot juice. Pack of 3",
+   "tags": [
+    "1",
+    "300ML",
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "12.95",
+   "compareAtPrice": "15.15",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/niomqdjxefeavyfw5pqd.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/cold-pressed-beet-treat-size-300ml-3pack",
+   "nutrition": {
+    "calories": 118,
+    "kilojoules": 493,
+    "protein_g": 2.3,
+    "fat_g": 1,
+    "saturated_fat_g": 0,
+    "carbs_g": 26.1,
+    "sugars_g": 26,
+    "sodium_mg": 72
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "cold-pressed-lean-green-size-300ml-3pack",
+   "title": "Cold Pressed Lean & Green Pack of 3",
+   "description": "This is a mighty juice. Clean, sweet and green from cold-pressed apple, celery, spinach, kale, lemon, cucumber and parsley. Amazing. Pack of 3",
+   "tags": [
+    "1",
+    "300ML",
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "12.95",
+   "compareAtPrice": "15.15",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/mbj0fke9f8afbts8kvx2.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/cold-pressed-lean-green-size-300ml-3pack",
+   "nutrition": {
+    "calories": 123,
+    "kilojoules": 513,
+    "protein_g": 2.9,
+    "fat_g": 0.5,
+    "saturated_fat_g": 0,
+    "carbs_g": 20.8,
+    "sugars_g": 20.3,
+    "fibre_g": 6.7,
+    "sodium_mg": 66
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "vegan-burrito-bowl-size_medium",
+   "title": "Vegan Burrito Bowl (Medium)",
+   "description": "Plant protein chicken pieces with garlic and red, yellow and green capsicum cooked with delicious Mexican spices of paprika, cumin and coriander. Served with Mexican long grain tomato rice and a roasted corn salsa with chipotle, lime and fresh coriander. Spice Level: Mild 🌶️ Ingredients: Water, Corn (11%), Basmati Rice (10%), Green Capsicum (8%), Red Capsicum (8%), Yellow Capsicum (8%), Crushed Tomato (6%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Roasted Capsicum Strips (6%) (Re",
+   "tags": [
+    "Bestsellers",
+    "High Protein",
+    "Meals",
+    "Mexican",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/vegan-burrito-bowl-1700635353.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/vegan-burrito-bowl-size_medium",
+   "nutrition": {
+    "calories": 400,
+    "kilojoules": 1680,
+    "protein_g": 20,
+    "fat_g": 11.5,
+    "saturated_fat_g": 2.2,
+    "carbs_g": 50.4,
+    "sugars_g": 9.9,
+    "fibre_g": 7.2,
+    "sodium_mg": 1010
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sulphites",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "all-day-juice-pack-size-300ml-3pack",
+   "title": "All-Day Juice Pack of 3",
+   "description": "We've got your morning, noon and nights covered with a three-pack of vitamin C boosting OJ, refreshing Lean & Green and deeply nourishing Beet Treat. Pack of 3",
+   "tags": [
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 3",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "12.95",
+   "compareAtPrice": "15.15",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/hmbzgrovllqvn46x4nyf.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/all-day-juice-pack-size-300ml-3pack",
+   "nutrition": {
+    "calories": 110,
+    "kilojoules": 459,
+    "protein_g": 1.9,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 24.6,
+    "sugars_g": 24.6,
+    "fibre_g": 6.7,
+    "sodium_mg": 9
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "medium",
+   "title": "Medium",
+   "description": "For 350 grams of tasty, plant-based goodness, go for Soulara's regular-sized ready-made meals.",
+   "tags": [
+    "bundle",
+    "featured"
+   ],
+   "productType": "Bundle",
+   "price": "86.10",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Menu-SOL-BundlesRegular.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/medium",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "salt-pepper-tofu-w-korean-noodles-size_medium",
+   "title": "Salt & Pepper Tofu w Korean Noodles (Medium)",
+   "description": "Delicious Szechuan-seasoned tofu served with sweet potato noodles, a steamed Asian slaw of red cabbage, white cabbage, shredded carrot and soybeans, and a wonderful ginger and shallot dressing. Ingredients: Sweet Potato Noodles (32%) (Sweet Potato Starch, Thickener (Sodium Alginate)), Firm Tofu (31%) (Water, Soybean , Firming Agent (516)), Spring Onion, Carrot (5%), Edamame (5%) ( Soybean ), Red Cabbage (5%), White Cabbage (5%), Olive Oil, Minced Ginger, Soy Sauce, Corn Flour, Sesame Oil (Contai",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2126.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/salt-pepper-tofu-w-korean-noodles-size_medium",
+   "nutrition": {
+    "calories": 487,
+    "kilojoules": 2040,
+    "protein_g": 21.4,
+    "fat_g": 23.9,
+    "saturated_fat_g": 3.3,
+    "carbs_g": 40.9,
+    "sugars_g": 4.5,
+    "fibre_g": 12.6,
+    "sodium_mg": 1030,
+    "calcium_mg": 598.7
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "sesame"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "large",
+   "title": "Large",
+   "description": "Soulara's large ready-made meals give you 450 gram servings of convenient, plant-based goodness for added protein.",
+   "tags": [
+    "badge__high protein",
+    "bundle",
+    "featured"
+   ],
+   "productType": "Bundle",
+   "price": "93.03",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Menu-SOL-BundlesLarge.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/large",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "vegan-burrito-bowl-size_large",
+   "title": "Vegan Burrito Bowl (Large)",
+   "description": "Plant protein chicken pieces with garlic and red, yellow and green capsicum cooked with delicious Mexican spices of paprika, cumin and coriander. Served with Mexican long grain tomato rice and a roasted corn salsa with chipotle, lime and fresh coriander. Spice Level: Mild 🌶️ Ingredients: Water, Corn (11%), Basmati Rice (10%), Green Capsicum (8%), Red Capsicum (8%), Yellow Capsicum (8%), Crushed Tomato (6%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Roasted Capsicum Strips (6%) (Re",
+   "tags": [
+    "Bestsellers",
+    "Glutenfree",
+    "High Protein",
+    "Large",
+    "Mexican",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/vegan-burrito-bowl-1700635370.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/vegan-burrito-bowl-size_large",
+   "nutrition": {
+    "calories": 516,
+    "kilojoules": 2160,
+    "protein_g": 25.5,
+    "fat_g": 14.9,
+    "saturated_fat_g": 2.9,
+    "carbs_g": 65,
+    "sugars_g": 12.9,
+    "fibre_g": 9.3,
+    "sodium_mg": 1290
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sulphites",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "yellow-seitan-curry-size_large",
+   "title": "Yellow Seitan Curry (Large)",
+   "description": "Thai-style yellow coconut curry of vegan \"duck\", green beans and broccoli with a side of fluffy white rice. Spice Level: Mild 🌶️ Ingredients: Basmati Rice (33%), Seitan (18%) ( Wheat Flour, Sugar, Salt, Spices, Natural Flavour), Coconut Milk (Coconut Milk, Stabilisers (415, 412, 407)), Carrot (10%), Broccoli (9%), Green Beans (5%), Yellow Curry Paste (3%), Coriander, Minced Garlic, Minced Ginger, Olive Oil. Allergen Contains: wheat, gluten Allergen May Contain: wheat, gluten, lupin, milk, soy, ",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "Large",
+    "No Added Nuts",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/yellow-seitan-curry_955a0ba5-9c35-48c0-9b35-4ffc706e3752.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/yellow-seitan-curry-size_large",
+   "nutrition": {
+    "calories": 566,
+    "kilojoules": 2370,
+    "protein_g": 25.4,
+    "fat_g": 15.2,
+    "saturated_fat_g": 10.7,
+    "carbs_g": 74,
+    "sugars_g": 13.2,
+    "fibre_g": 13.7,
+    "sodium_mg": 1250,
+    "calcium_mg": 176.7
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "yellow-seitan-curry-size_medium",
+   "title": "Yellow Seitan Curry (Medium)",
+   "description": "Thai-style yellow coconut curry of vegan \"duck\", green beans and broccoli with a side of fluffy white rice. Spice Level: Mild 🌶️ Ingredients: Basmati Rice (28%), Seitan (19%) ( Wheat Flour, Sugar, Salt, Spices, Natural Flavour), Coconut Milk (Coconut Milk, Stabilisers (415, 412, 407)), Carrot (11%), Broccoli (9%), Green Beans (6%), Yellow Curry Paste (3.5%), Coriander, Minced Garlic, Minced Ginger, Olive Oil. Allergen Contains: wheat, gluten Allergen May Contain: wheat, gluten, lupin, milk, soy",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/yellow-seitan-curry.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/yellow-seitan-curry-size_medium",
+   "nutrition": {
+    "calories": 432,
+    "kilojoules": 1810,
+    "protein_g": 20.4,
+    "fat_g": 12.6,
+    "saturated_fat_g": 8.9,
+    "carbs_g": 53,
+    "sugars_g": 10.9,
+    "fibre_g": 11.2,
+    "sodium_mg": 1040,
+    "calcium_mg": 146.6
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "the-sunkissed-protein-pesto-size_large",
+   "title": "The Sunkissed Protein Pesto (Large)",
+   "description": "Penne al dente, tossed with our house-made dairy-free basil and pine nut pesto for a tasty, high-protein kick. Delicious! Ingredients: Pasta (50%) (Durum Wheat Semolina), Green Peas (15%) , Plant-based Mince (9%) (Water, Soy Protein, Vegetable Oils, Dextrose, Yeast Extracts, Salt, Colour (150a), Beetroot Powder, Onion Powder), Olive Pomace Oil, Sundried Tomato (5%) ( Sulphites ) (Sundried Tomato, Salt, Sugar, Acidity Regulators (330, 300), Vinegar, Preservatives (202, 223)), Basil (2%), Lemon Ju",
+   "tags": [
+    "Bestsellers",
+    "High Protein",
+    "Italian",
+    "Large",
+    "No Added Dairy",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1975-_ECOM-ONLY_2d211a86-f575-4e71-bc1a-a9dfa4aed389.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/the-sunkissed-protein-pesto-size_large",
+   "nutrition": {
+    "calories": 771,
+    "kilojoules": 3230,
+    "protein_g": 32.2,
+    "fat_g": 35.5,
+    "saturated_fat_g": 6.3,
+    "carbs_g": 73.1,
+    "sugars_g": 10.5,
+    "fibre_g": 15.3,
+    "sodium_mg": 1930
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy",
+     "sulphites",
+     "pine nut"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "the-sunkissed-protein-pesto-size_medium",
+   "title": "The Sunkissed Protein Pesto (Medium)",
+   "description": "Penne al dente, tossed with our house-made dairy-free basil and pine nut pesto for a tasty, high-protein kick. Delicious! Ingredients: Pasta (53%) (Durum Wheat Semolina), Green Peas (16%), Plant-based Mince (7%) (Water, Soy Protein, Vegetable Oils, Dextrose, Yeast Extracts, Salt, Colour (150a), Beetroot Powder, Onion Powder), Olive Pomace Oil, Sundried Tomato (4%) ( Sulphites ), Basil, Lemon Juice, Soy Sauce, Nutritional Yeast, Pine Nut (1.5%), Parsley, Minced Garlic, Vinegar Powder, Maple Syrup",
+   "tags": [
+    "Bestsellers",
+    "High Protein",
+    "Italian",
+    "No Added Dairy",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1975-_ECOM-ONLY.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/the-sunkissed-protein-pesto-size_medium",
+   "nutrition": {
+    "calories": 600,
+    "kilojoules": 2510,
+    "protein_g": 23.7,
+    "fat_g": 28.2,
+    "saturated_fat_g": 4.8,
+    "carbs_g": 57.4,
+    "sugars_g": 7.1,
+    "fibre_g": 11.6,
+    "sodium_mg": 1370
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy",
+     "sulphites",
+     "pine nut"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "thai-style-tofu-size_medium",
+   "title": "Thai-Style Tofu (Medium)",
+   "description": "Hard tofu, broccoli, green beans in a mild, yellow, miso-coconut curry of turmeric, kaffir lime and lemongrass. Served with quinoa. A light and tasty favourite brimming with good health. Spice Level: Mild 🌶️ Ingredients: Firm Tofu (32%) (Water, Soybean , Firming Agent (516)), Quinoa (17%), Coconut Cream (12%) (Coconut Cream, Stabilisers (415, 412, 407)), Broccoli (11%), Green Beans, Shallot, Lemongrass, Red Chilli, Minced Ginger, Lemon Juice, White Miso Paste (Contains Soy ), Olive Oil, Minced ",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "Calorie Controlled",
+    "Glutenfree",
+    "High Protein",
+    "No Added Gluten",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a2-your-option-2-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1991.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/thai-style-tofu-size_medium",
+   "nutrition": {
+    "calories": 387,
+    "kilojoules": 1620,
+    "protein_g": 25.9,
+    "fat_g": 20.2,
+    "saturated_fat_g": 11.6,
+    "carbs_g": 23.3,
+    "sugars_g": 5.7,
+    "fibre_g": 9.9,
+    "sodium_mg": 649,
+    "calcium_mg": 189
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "thai-style-tofu-size_large",
+   "title": "Thai-Style Tofu (Large)",
+   "description": "Hard tofu, broccoli, green beans in a mild, yellow, miso-coconut curry of turmeric, kaffir lime and lemongrass. Served with quinoa. A light and tasty favourite brimming with good health. Spice Level: Mild 🌶️ Ingredients: Firm Tofu (30%) (Water, Soybean , Firming Agent (516)), Quinoa (20%), Broccoli (13%), Coconut Cream (11%) (Coconut Cream, Stabilisers (415, 412, 407)), Green Beans, Shallot, Lemongrass, Red Chilli, Minced Ginger, Lemon Juice, White Miso Paste (Contains Soy ), Olive Oil, Minced ",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "Calorie Controlled",
+    "Glutenfree",
+    "High Protein",
+    "Large",
+    "No Added Gluten",
+    "No Added Nuts",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a2-your-option-2-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1991_7b418b17-1f5b-4f16-8e7d-8119bd0bd44a.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/thai-style-tofu-size_large",
+   "nutrition": {
+    "calories": 487,
+    "kilojoules": 2040,
+    "protein_g": 32.1,
+    "fat_g": 24.6,
+    "saturated_fat_g": 14,
+    "carbs_g": 31.2,
+    "sugars_g": 7.2,
+    "fibre_g": 12.8,
+    "sodium_mg": 782,
+    "calcium_mg": 233
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "supercharged-satay-size_large",
+   "title": "Supercharged Satay (Large)",
+   "description": "An iconic Soulara dish featuring a full rainbow of nutrient-dense goodies. Tofu, edamame, black rice, shredded carrot and purple cabbage, all with the delicious goodness of peanut sauce. Spice Level: Mild 🌶️ Ingredients: Firm Tofu (26%) (Water, Soybean , Firming Agent (516)), Black Rice (25%), Edamame (17%) ( Soybean ), Carrot, Red Cabbage (7%), Peanut Butter (6%) (Roasted Peanuts , Sugar, Vegetable Oils, Salt, Stabiliser (Mono and Diglycerides)), Lemon Juice, Coconut Amino, Soy Sauce, Tahini (",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "Glutenfree",
+    "High Protein",
+    "Large",
+    "No Added Gluten",
+    "No Added Wheat",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1977_3e3c36d8-4f03-4bc7-8db7-8ca9b62b2069.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/supercharged-satay-size_large",
+   "nutrition": {
+    "calories": 687,
+    "kilojoules": 2870,
+    "protein_g": 36.7,
+    "fat_g": 31,
+    "saturated_fat_g": 4.3,
+    "carbs_g": 57.3,
+    "sugars_g": 12.2,
+    "fibre_g": 17.2,
+    "sodium_mg": 891,
+    "calcium_mg": 565
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "peanut",
+     "sesame"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "supercharged-satay-size_medium",
+   "title": "Supercharged Satay (Medium)",
+   "description": "An iconic Soulara dish featuring a full rainbow of nutrient-dense goodies. Tofu, edamame, black rice, shredded carrot and purple cabbage, all with the delicious goodness of peanut sauce. Spice Level: Mild 🌶️ Ingredients: Black Rice (27%), Firm Tofu (26%) (Water, Soybean , Firming Agent (516)), Edamame (17%) ( Soybean ), Carrot, Red Cabbage (7%), Peanut Butter (6%) (Roasted Peanuts , Sugar, Vegetable Oils, Salt, Stabiliser (Mono and Diglycerides)), Lemon Juice, Coconut Amino, Soy Sauce, Tahini (",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "Glutenfree",
+    "High Protein",
+    "No Added Gluten",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1977.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/supercharged-satay-size_medium",
+   "nutrition": {
+    "calories": 542,
+    "kilojoules": 2270,
+    "protein_g": 28.6,
+    "fat_g": 24.1,
+    "saturated_fat_g": 3.3,
+    "carbs_g": 46.5,
+    "sugars_g": 9.5,
+    "fibre_g": 13.3,
+    "sodium_mg": 692,
+    "calcium_mg": 437
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "peanut",
+     "sesame"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "shepherds-pie-w-kale-size_medium",
+   "title": "Shepherd's Pie w Kale (Medium)",
+   "description": "Herbed mushrooms, lentils and carrots sauté and topped with a mashed potato/sweet potato blend. Served with a healthy side of kale. Ingredients: Plant-based Mince (20%) (Water, Soy Protein (6%), Vegetable Oils, Dextrose, Yeast Extracts, Salt, Colour (150a), Beetroot Powder, Onion Powder), Potato (18%), Green Peas (12%), Sweet Potato (9%), Kale (9%), Mushroom (6%) (Mushroom, Water, Salt, Citric Acid), Onion, Carrot (4.5%), Celery (4.5%), Red Lentil (4.5%), Red Wine, Olive Pomace Oil, Minced Garli",
+   "tags": [
+    "Calorie Controlled",
+    "European",
+    "Glutenfree",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Spring",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2157.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/shepherds-pie-w-kale-size_medium",
+   "nutrition": {
+    "calories": 395,
+    "kilojoules": 1650,
+    "protein_g": 27.5,
+    "fat_g": 13.7,
+    "saturated_fat_g": 3.4,
+    "carbs_g": 32.6,
+    "sugars_g": 8.3,
+    "fibre_g": 15.9,
+    "sodium_mg": 1180
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein",
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "shepherds-pie-w-kale-size_large",
+   "title": "Shepherd's Pie w Kale (Large)",
+   "description": "Herbed mushrooms, lentils and carrots sauté and topped with a mashed potato/sweet potato blend. Served with a healthy side of kale. Ingredients: Plant-based Mince (19%) (Water, Soy Protein (6%), Vegetable Oils, Dextrose, Yeast Extracts, Salt, Colour (150a), Beetroot Powder, Onion Powder), Potato (17%), Green Peas (11%), Kale (11%), Sweet Potato (9%), Mushroom (6%) (Mushroom, Water, Salt, Citric Acid), Onion, Carrot (4.5%), Celery (4.5%), Red Lentil (4.5%), Red Wine, Olive Pomace Oil, Minced Garl",
+   "tags": [
+    "Calorie Controlled",
+    "European",
+    "Glutenfree",
+    "High Protein",
+    "Large",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Spring",
+    "Veg-Loaded",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2157_e0a8648d-7769-483c-9812-47ac2f24ab6b.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/shepherds-pie-w-kale-size_large",
+   "nutrition": {
+    "calories": 500,
+    "kilojoules": 2090,
+    "protein_g": 34.9,
+    "fat_g": 17.1,
+    "saturated_fat_g": 4.2,
+    "carbs_g": 41.5,
+    "sugars_g": 10.7,
+    "fibre_g": 20.3,
+    "sodium_mg": 1470
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "spaghetti-veganese-size_large",
+   "title": "Spaghetti Veganese (Large)",
+   "description": "Our house-made Napolitana recipe is part of Soulara's secret sauce, and forms the base of this simple and very tasty Bolognese from textured vegetable protein. Ingredients: Pasta (44%) (Durum Wheat Semolina), Crushed Tomato (37%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)) , Plant-based Mince (8%) (Water, Soy Protein (2.5%), Vegetable Oils, Dextrose, Yeast Extracts, Flavour, Salt, Colour (150a), Beetroot Powder, Onion Powder), Carrot, Celery, Onion (2%), Red Wine (1%), Olive Oil, Bas",
+   "tags": [
+    "Bestsellers",
+    "Calorie Controlled",
+    "High Protein",
+    "Italian",
+    "Large",
+    "No Added Nuts",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Top Rated",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2132_64b92770-8abb-40e8-bd09-c4001a34c9f5.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/spaghetti-veganese-size_large",
+   "nutrition": {
+    "calories": 424,
+    "kilojoules": 1770,
+    "protein_g": 21.6,
+    "fat_g": 9,
+    "saturated_fat_g": 2.1,
+    "carbs_g": 58,
+    "sugars_g": 10,
+    "fibre_g": 9.9,
+    "sodium_mg": 497
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "roots-unearthed-red-curry-size_large",
+   "title": "Roots Unearthed Red Curry (Large)",
+   "description": "A fragrant Thai red curry in a mildly spicy coconut and miso base, packed with tofu, green beans, carrot, broccoli and zucchini, now served with rice for a heartier, more satisfying meal experience. Ingredients: Basmati Rice (28%), Firm Tofu (21%) (Water, Soybean , Firming Agent (516)), Coconut Cream (11%) (Coconut Cream, Stabilisers (415, 412, 407)), Carrot (6%), Broccoli (6%), Green Beans (6%), Zucchini (6%), Water, Red Capsicum (2.5%), Lemon Juice, Spring Onion, Tomato Paste, White Miso Paste",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "Glutenfree",
+    "High Protein",
+    "Large",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1909_New_Roots-Unearthed-Red-Curry.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/roots-unearthed-red-curry-size_large",
+   "nutrition": {
+    "calories": 525,
+    "kilojoules": 2200,
+    "protein_g": 20,
+    "fat_g": 22.4,
+    "saturated_fat_g": 13.3,
+    "carbs_g": 55.4,
+    "sugars_g": 9,
+    "fibre_g": 9.5,
+    "sodium_mg": 723,
+    "calcium_mg": 377
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sulphites",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "spaghetti-veganese-size_medium",
+   "title": "Spaghetti Veganese (Medium)",
+   "description": "Our house-made Napolitana recipe is part of Soulara's secret sauce, and forms the base of this simple and very tasty Bolognese from textured vegetable protein. Ingredients: Pasta (42%) (Durum Wheat Semolina), Crushed Tomato (38%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Plant-based Mince (9%) (Water, Soy Protein (2.5%), Vegetable Oils, Dextrose, Yeast Extracts, Flavour, Salt, Colour (150a), Beetroot Powder, Onion Powder), Carrot, Celery, Onion (2%), Red Wine (1%), Olive Oil, Basi",
+   "tags": [
+    "Bestsellers",
+    "Calorie Controlled",
+    "Italian",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "Size_Medium",
+    "Top Rated",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2132.webp?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/spaghetti-veganese-size_medium",
+   "nutrition": {
+    "calories": 326,
+    "kilojoules": 1360,
+    "protein_g": 16.7,
+    "fat_g": 7,
+    "saturated_fat_g": 1.7,
+    "carbs_g": 44,
+    "sugars_g": 8,
+    "fibre_g": 7.7,
+    "sodium_mg": 397
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "roots-unearthed-red-curry-size_medium",
+   "title": "Roots Unearthed Red Curry (Medium)",
+   "description": "A fragrant Thai red curry in a mildly spicy coconut and miso base, packed with tofu, green beans, carrot, broccoli and zucchini, now served with rice for a heartier, more satisfying meal experience. Ingredients: Basmati Rice (28%), Firm Tofu (21%) (Water, Soybean , Firming Agent (516)), Coconut Cream (12%) (Coconut Cream, Stabilisers (415, 412, 407)), Carrot (6%), Broccoli (6%), Green Beans (6%), Zucchini (6%), Water, Red Capsicum (2.5%), Lemon Juice, Spring Onion, Tomato Paste, White Miso Paste",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "Glutenfree",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL1909_New_Roots-Unearthed-Red-Curry.jpg?v=1778758622",
+   "url": "https://dev-soulara.myshopify.com/products/roots-unearthed-red-curry-size_medium",
+   "nutrition": {
+    "calories": 408,
+    "kilojoules": 1710,
+    "protein_g": 15.5,
+    "fat_g": 17.5,
+    "saturated_fat_g": 10.4,
+    "carbs_g": 42.7,
+    "sugars_g": 7,
+    "fibre_g": 7.4,
+    "sodium_mg": 564,
+    "calcium_mg": 294.5
+   },
+   "allergens": {
+    "contains": [
+     "soy"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "sulphites",
+     "sesame",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "lasagna-is-a-feeling-size_large",
+   "title": "Lasagna Is A Feeling (Large)",
+   "description": "Nothing beats lasagna! Ours is layered with a Bolognese of borlotti, butter and black beans and slathered in a creamy, dairy-free béchamel . Ingredients: Crushed Tomato (31%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Soy Milk (30%) (Filtered Water, Soy Protein, Corn Maltodextrin, Vegetable Oils (Sunflower, Canola), Cane Sugar, Minerals (Calcium, Phosphorus, Magnesium), Acidity Regulators (332, 450), Antioxidant (Ascorbic Acid), Vitamins (B12, D2, A, B2, B1), Natural Flavour), Past",
+   "tags": [
+    "Bestsellers",
+    "Italian",
+    "Large",
+    "No Added Nuts",
+    "Plant-based",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2127_8896debb-5882-46f5-b3bd-71e38acc1900.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/lasagna-is-a-feeling-size_large",
+   "nutrition": {
+    "calories": 613,
+    "kilojoules": 2570,
+    "protein_g": 20,
+    "fat_g": 29.4,
+    "saturated_fat_g": 4.6,
+    "carbs_g": 61.9,
+    "sugars_g": 15.2,
+    "fibre_g": 13,
+    "sodium_mg": 992,
+    "calcium_mg": 457.8
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "egg",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "four-mushroom-stroganoff-size_large",
+   "title": "Four-Mushroom Stroganoff (Large)",
+   "description": "A wonderfully vegan creamy stroganoff of button, swiss brown, dried porcini mushrooms and mushroom nuggets. Served with al dente spaghetti. Ingredients: Pasta (42%) (Durum Wheat Semolina), Mushroom Nuggets (18%) (Mushroom, Textured Soy Protein ( Soy Protein, Wheat Flour, Vegetable Oil), Vegetable Gum, Soy Flour, Vegetable Oil, Vegetarian Seasonings, Salt), Mushroom (11%) (Mushroom, Water, Salt, Citric Acid), Swiss Brown Mushroom (11%), Plant Based Cream (7%) (Lentil Milk (Water, Lentil Protein),",
+   "tags": [
+    "European",
+    "High Protein",
+    "Large",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2166_TOP_34563d8d-c997-41ee-9751-ee136a07a5d2.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/four-mushroom-stroganoff-size_large",
+   "nutrition": {
+    "calories": 646,
+    "kilojoules": 2700,
+    "protein_g": 25.4,
+    "fat_g": 31.2,
+    "saturated_fat_g": 16.8,
+    "carbs_g": 54.8,
+    "sugars_g": 4.9,
+    "fibre_g": 22.3,
+    "sodium_mg": 1350
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "lasagna-is-a-feeling-size_medium",
+   "title": "Lasagna Is A Feeling (Medium)",
+   "description": "Nothing beats lasagna! Ours is layered with a Bolognese of borlotti, butter and black beans and slathered in a creamy, dairy-free béchamel . Ingredients: Crushed Tomato (32%) (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Soy Milk (30%) (Filtered Water, Soy Protein, Corn Maltodextrin, Vegetable Oils (Sunflower, Canola), Cane Sugar, Minerals (Calcium, Phosphorus, Magnesium), Acidity Regulators (332, 450), Antioxidant (Ascorbic Acid), Vitamins (B12, D2, A, B2, B1), Natural Flavour), Past",
+   "tags": [
+    "Bestsellers",
+    "Italian",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian",
+    "Winter"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2127.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/lasagna-is-a-feeling-size_medium",
+   "nutrition": {
+    "calories": 476,
+    "kilojoules": 1990,
+    "protein_g": 15.5,
+    "fat_g": 22.8,
+    "saturated_fat_g": 3.5,
+    "carbs_g": 48,
+    "sugars_g": 11.9,
+    "fibre_g": 10.1,
+    "sodium_mg": 771,
+    "calcium_mg": 355.4
+   },
+   "allergens": {
+    "contains": [
+     "soy",
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "egg",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "four-mushroom-stroganoff-size_medium",
+   "title": "Four-Mushroom Stroganoff (Medium)",
+   "description": "A wonderfully vegan creamy stroganoff of button, swiss brown, dried porcini mushrooms and mushroom nuggets. Served with al dente spaghetti. Ingredients: Pasta (42%) (Durum Wheat Semolina), Mushroom Nuggets (17%) (Mushroom, Textured Soy Protein ( Soy Protein, Wheat Flour, Vegetable Oil), Vegetable Gum, Soy Flour, Vegetable Oil, Vegetarian Seasonings, Salt), Mushroom (11%) (Mushroom, Water, Salt, Citric Acid), Swiss Brown Mushroom (11%), Plant Based Cream (7%) (Lentil Milk (Water, Lentil Protein),",
+   "tags": [
+    "European",
+    "High Protein",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2166_TOP.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/four-mushroom-stroganoff-size_medium",
+   "nutrition": {
+    "calories": 499,
+    "kilojoules": 2090,
+    "protein_g": 19.5,
+    "fat_g": 23.9,
+    "saturated_fat_g": 12.8,
+    "carbs_g": 43,
+    "sugars_g": 3.8,
+    "fibre_g": 17,
+    "sodium_mg": 1040
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy"
+    ],
+    "mayContain": [
+     "egg",
+     "lupin",
+     "milk",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "scrambled-tofu-boston-beans-copy-1",
+   "title": "Scrambled Tofu & Mushroom (Large)",
+   "description": "Creamy tofu scramble, button mushrooms and kale tossed with sun dried tomatoes. Spice Level: Mild 🌶️ Ingredients: Button mushrooms, tofu [soya bean extract, water, E516], kale, soy milk, cashews, sun dried tomatoes [tomatoes, salt, E220, canola oil, mixed herbs, salt, olive oil, preservative (E330)], pepper, paprika. Allergen Contains: Soy, Tree nuts (cashew nuts, pinenuts) Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut, ma",
+   "tags": [
+    "1",
+    "Breakfast",
+    "Breakfasts",
+    "High Protein",
+    "Large",
+    "No Added Dairy",
+    "Plant Protein",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Scrambled_tofu.png?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/scrambled-tofu-boston-beans-copy-1",
+   "nutrition": {
+    "calories": 562.5,
+    "kilojoules": 2362.5,
+    "protein_g": 34.65,
+    "fat_g": 29.7,
+    "saturated_fat_g": 4.05,
+    "carbs_g": 31.05,
+    "sugars_g": 13.05,
+    "fibre_g": 19.35,
+    "sodium_mg": 1030.5,
+    "calcium_mg": 595.35
+   },
+   "allergens": {
+    "contains": [
+     "Soy"
+    ],
+    "mayContain": [
+     "Peanuts",
+     "tree nuts",
+     "soy",
+     "sesame",
+     "sulphites",
+     "lupin",
+     "gluten and wheat"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "bbq-black-bean-casserole-copy-3",
+   "title": "Jungle Curry (Medium)",
+   "description": "Mild tofu and vegetable curry infused with ginger, coconut and citrus and served with basmati ricе. Ingredients: Basmati rice (23%), vegetable stock [southern ocean sea salt, maize maltodextrin, cane sugar, natural vegetable flavours, yeast extract, dehydrated vegetables(onion, celery), disodium guanylate and insoinate, canola oil tofu (13%) [soya bean extract, water, E516], carrot (8%), onion (8%), green beans (5%), eggplant (5%), baby corn (5%), olive oil, ginger (0.3%) [reconstituted ginger, ",
+   "tags": [
+    "American",
+    "Calorie Controlled",
+    "Glutenfree",
+    "Medium",
+    "No Added Gluten",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/JungleCurry_aba95b3b-898e-4605-991b-8420153b12b3.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/bbq-black-bean-casserole-copy-3",
+   "nutrition": {
+    "calories": 408,
+    "kilojoules": 1710,
+    "protein_g": 15.5,
+    "fat_g": 17.5,
+    "saturated_fat_g": 10.4,
+    "carbs_g": 42.7,
+    "fibre_g": 7.4,
+    "sodium_mg": 564,
+    "calcium_mg": 294.5
+   },
+   "allergens": {
+    "contains": [
+     "Gluten",
+     "Wheat"
+    ],
+    "mayContain": [
+     "Peanuts",
+     "tree nuts",
+     "soy",
+     "sesame",
+     "sulphites",
+     "lupin",
+     "gluten and wheat"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "balinese-mie-goreng-size_large",
+   "title": "Balinese Mie Goreng (Large)",
+   "description": "Inspired by the streets of Seminyak is our plant-based take on the humble but oh-so-tasty mie goreng. Now with a vibrant new veg mix, it comes loaded with colour, texture and flavour, seasoned with kecap manis and sambal oelek. Spice Level: Medium 🌶️ 🌶️ Ingredients: Wheat Noodles (37%) ( Wheat Flour, Water, Salt, Colour (100)), Water, Plant Protein Pieces (7%) (Structured Vegetable Protein (Isolated Soy Protein, Tapioca Starch, Sodium Alginate, Calcium Carbonate, Glucono Delta Lactone)), Baby ",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "Large",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2134_NEW_Balinese.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/balinese-mie-goreng-size_large",
+   "nutrition": {
+    "calories": 585,
+    "kilojoules": 2450,
+    "protein_g": 40.2,
+    "fat_g": 12.2,
+    "saturated_fat_g": 2.6,
+    "carbs_g": 72.6,
+    "sugars_g": 16.6,
+    "fibre_g": 11.3,
+    "sodium_mg": 2670,
+    "calcium_mg": 358.3
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy",
+     "sulphites",
+     "sesame"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Medium",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "dreamy-fettuccine-alfredo-size_large",
+   "title": "Dreamy Fettuccine Alfredo (Large)",
+   "description": "Peas and basil bring a fresh touch to our luscious, dairy-free alfredo mushroom sauce from cauliflower, sunflower seeds and nutritional yeast, tossed through al dente fettuccine. Ingredients: Pasta (50%) (Durum Wheat Semolina), Swiss Brown Mushroom (10%), Water, Green Peas (9%), Sunflower Seed, Olive Oil, Cauliflower, Apple Cider Vinegar, Nutritional Yeast, Salt, Basil, Black Pepper, Onion Powder, Garlic Powder. Allergen Contains: wheat, gluten. Allergen May Contain: egg, wheat, gluten, lupin, m",
+   "tags": [
+    "High Protein",
+    "Italian",
+    "Large",
+    "No Added Nuts",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2129.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/dreamy-fettuccine-alfredo-size_large",
+   "nutrition": {
+    "calories": 741,
+    "kilojoules": 3100,
+    "protein_g": 25.7,
+    "fat_g": 41,
+    "saturated_fat_g": 5.4,
+    "carbs_g": 61.3,
+    "sugars_g": 2.9,
+    "fibre_g": 12.9,
+    "sodium_mg": 875,
+    "calcium_mg": 78.4
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "egg",
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "dreamy-fettuccine-alfredo-size_medium",
+   "title": "Dreamy Fettuccine Alfredo (Medium)",
+   "description": "Peas and basil bring a fresh touch to our luscious, dairy-free alfredo mushroom sauce from cauliflower, sunflower seeds and nutritional yeast, tossed through al dente fettuccine. Ingredients: Pasta (51%) (Durum Wheat Semolina), Swiss Brown Mushroom (10%), Water, Green Peas (9%), Sunflower Seed, Olive Oil, Cauliflower, Apple Cider Vinegar, Nutritional Yeast, Salt, Basil, Black Pepper, Onion Powder, Garlic Powder. Allergen Contains: wheat, gluten Allergen May Contain: egg, wheat, gluten, lupin, mi",
+   "tags": [
+    "High Protein",
+    "Italian",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a3-gluten-free-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2129_19dd2f80-a538-4bad-b236-f7798e1a7e9a.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/dreamy-fettuccine-alfredo-size_medium",
+   "nutrition": {
+    "calories": 575,
+    "kilojoules": 2410,
+    "protein_g": 19.9,
+    "fat_g": 31.7,
+    "saturated_fat_g": 4.2,
+    "carbs_g": 47.9,
+    "sugars_g": 2.3,
+    "fibre_g": 10,
+    "sodium_mg": 677,
+    "calcium_mg": 60.8
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten"
+    ],
+    "mayContain": [
+     "egg",
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "balinese-mie-goreng-size_medium",
+   "title": "Balinese Mie Goreng (Medium)",
+   "description": "Inspired by the streets of Seminyak is our plant-based take on the humble but oh-so-tasty mie goreng. Now with a vibrant new veg mix, it comes loaded with colour, texture and flavour, seasoned with kecap manis and sambal oelek. Spice Level: Medium 🌶️ 🌶️ Ingredients: Wheat Noodles (37%) ( Wheat Flour, Water, Salt, Colour (100)), Water, Plant Protein Pieces (7%) (Structured Vegetable Protein (Isolated Soy Protein, Tapioca Starch, Sodium Alginate, Calcium Carbonate, Glucono Delta Lactone)), Baby ",
+   "tags": [
+    "Asian",
+    "Bestsellers",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a4-very-active--in-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2134_NEW_Balinese.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/balinese-mie-goreng-size_medium",
+   "nutrition": {
+    "calories": 455,
+    "kilojoules": 1900,
+    "protein_g": 31.3,
+    "fat_g": 9.5,
+    "saturated_fat_g": 2.1,
+    "carbs_g": 56.5,
+    "sugars_g": 12.9,
+    "fibre_g": 8.8,
+    "sodium_mg": 2080,
+    "calcium_mg": 278.7
+   },
+   "allergens": {
+    "contains": [
+     "wheat",
+     "gluten",
+     "soy",
+     "sulphites",
+     "sesame"
+    ],
+    "mayContain": [
+     "lupin",
+     "milk",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Medium",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "jungle-curry-copy",
+   "title": "Jungle Curry (Large)",
+   "description": "Mild tofu and vegetable curry infused with ginger, coconut and citrus and served with basmati ricе. Ingredients: Basmati rice (23%), vegetable stock [southern ocean sea salt, maize maltodextrin, cane sugar, natural vegetable flavours, yeast extract, dehydrated vegetables(onion, celery), disodium guanylate and insoinate, canola oil tofu (13%) [soya bean extract, water, E516], carrot (8%), onion (8%), green beans (5%), eggplant (5%), baby corn (5%), olive oil, ginger (0.3%) [reconstituted ginger, ",
+   "tags": [
+    "American",
+    "Calorie Controlled",
+    "Glutenfree",
+    "Large",
+    "No Added Gluten",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/JungleCurry_aba95b3b-898e-4605-991b-8420153b12b3.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/jungle-curry-copy",
+   "nutrition": {
+    "calories": 525,
+    "kilojoules": 2200,
+    "protein_g": 20,
+    "fat_g": 22.4,
+    "saturated_fat_g": 13.3,
+    "carbs_g": 55.4,
+    "fibre_g": 9.5,
+    "sodium_mg": 723,
+    "calcium_mg": 377
+   },
+   "allergens": {
+    "contains": [
+     "Gluten",
+     "Wheat"
+    ],
+    "mayContain": [
+     "Peanuts",
+     "tree nuts",
+     "soy",
+     "sesame",
+     "sulphites",
+     "lupin",
+     "gluten and wheat"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "african-peanut-stew-size_large",
+   "title": "African Peanut Stew (Large)",
+   "description": "A mildly spicy West African stew of sweet potato, peanuts and legumes. Served with long grain rice and rich with the evocative flavours of fenugreek, cumin, turmeric and paprika. Spice Level: Mild 🌶️ Ingredients: Basmati Rice (33%), Crushed Tomato (Tomato, Tomato Juice, Acidity Regulator (Citric Acid)), Borlotti Beans (11%) (Borlotti Beans, Water, Salt), Potato (10%), Sweet Potato (9%), Peanut Butter (4%), Peanut (4%), Onion, Spinach, Minced Arlic, Lemon Juice, Minced Iner, Olive Oil, Carrot, S",
+   "tags": [
+    "African",
+    "Large",
+    "No Added Gluten",
+    "No Added Wheat",
+    "Plant-based",
+    "Size_Large",
+    "Top Rated",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.45",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/SOL2138_dc5fe82d-4683-4431-bd98-b4d676834a5d.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/african-peanut-stew-size_large",
+   "nutrition": {
+    "calories": 626,
+    "kilojoules": 2620,
+    "protein_g": 21.3,
+    "fat_g": 21.4,
+    "saturated_fat_g": 3.6,
+    "carbs_g": 79.9,
+    "sugars_g": 9,
+    "fibre_g": 3,
+    "sodium_mg": 13.3,
+    "calcium_mg": 840
+   },
+   "allergens": {
+    "contains": [
+     "peanut"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "bbq-black-bean-casserole-copy",
+   "title": "BBQ Black Bean Casserole (Medium)",
+   "description": "Roast potatoes layered with BBQ-spiced black beans, tender seitan, tomatoes and pearl cous cous. Ingredients: Potatoes (29%), tomato (21.5%) [chopped tomatoes, tomato juice, citric acid], black beans, onion, pearl cous cous [semolina, salt], corn, lemon [squeezed and reconstituted lemon juice, preservative (E202)], bbq seitan strips [gluten, wheat protein, vegetable oil, vegetarian seasoning, brown sugar, salt, food colouring (E102)], garlic [reconstituted garlic, reconsituted onion, preservativ",
+   "tags": [
+    "American",
+    "Calorie Controlled",
+    "No Added Nuts",
+    "Plant-based",
+    "Regular",
+    "Size_Medium",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/bbq-black-bean-casserole.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/bbq-black-bean-casserole-copy",
+   "nutrition": {
+    "calories": 458.5,
+    "kilojoules": 1925,
+    "protein_g": 22.05,
+    "fat_g": 10.5,
+    "saturated_fat_g": 1.75,
+    "carbs_g": 66.5,
+    "sugars_g": 6.3,
+    "fibre_g": 8.75,
+    "sodium_mg": 1032.5,
+    "calcium_mg": 77
+   },
+   "allergens": {
+    "contains": [
+     "Gluten",
+     "Wheat"
+    ],
+    "mayContain": [
+     "Peanuts",
+     "tree nuts",
+     "soy",
+     "sesame",
+     "sulphites",
+     "lupin",
+     "gluten and wheat"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "scrambled-tofu-boston-beans-copy",
+   "title": "Scrambled Tofu & Mushroom (Medium)",
+   "description": "Creamy tofu scramble, button mushrooms and kale tossed with sun dried tomatoes. Spice Level: Mild 🌶️ Ingredients: Button mushrooms, tofu [soya bean extract, water, E516], kale, soy milk, cashews, sun dried tomatoes [tomatoes, salt, E220, canola oil, mixed herbs, salt, olive oil, preservative (E330)], pepper, paprika. Allergen Contains: Soy, Tree nuts (cashew nuts, pinenuts) Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut, ma",
+   "tags": [
+    "1",
+    "350g",
+    "Breakfast",
+    "Breakfasts",
+    "High Protein",
+    "Medium",
+    "No Added Dairy",
+    "Plant-based",
+    "rq-q1-a3-your-option-3-do-not-remove",
+    "rq-q2-a1-your-option-1-do-not-remove",
+    "rq-q3-a5-high-protein-do-not-remove",
+    "Size_Medium"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Scrambled_tofu_365d30b1-8629-485f-9193-99a9933879f8.png?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/scrambled-tofu-boston-beans-copy",
+   "nutrition": {
+    "calories": 440,
+    "kilojoules": 1840,
+    "protein_g": 27,
+    "fat_g": 23,
+    "saturated_fat_g": 3,
+    "carbs_g": 24,
+    "sugars_g": 10,
+    "fibre_g": 15,
+    "sodium_mg": 802,
+    "calcium_mg": 463
+   },
+   "allergens": {
+    "contains": [
+     "Soy"
+    ],
+    "mayContain": [
+     "Peanuts",
+     "tree nuts",
+     "soy",
+     "sesame",
+     "sulphites",
+     "lupin",
+     "gluten and wheat"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "bbq-black-bean-casserole-copy-1",
+   "title": "BBQ Black Bean Casserole (Large)",
+   "description": "Roast potatoes layered with BBQ-spiced black beans, tender seitan, tomatoes and pearl cous cous. Ingredients: Potatoes (29%), tomato (21.5%) [chopped tomatoes, tomato juice, citric acid], black beans, onion, pearl cous cous [semolina, salt], corn, lemon [squeezed and reconstituted lemon juice, preservative (E202)], bbq seitan strips [gluten, wheat protein, vegetable oil, vegetarian seasoning, brown sugar, salt, food colouring (E102)], garlic [reconstituted garlic, reconsituted onion, preservativ",
+   "tags": [
+    "American",
+    "Calorie Controlled",
+    "Large",
+    "No Added Nuts",
+    "Plant-based",
+    "Size_Large",
+    "Vegan-Friendly",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/bbq-black-bean-casserole.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/bbq-black-bean-casserole-copy-1",
+   "nutrition": {
+    "calories": 589.5,
+    "kilojoules": 2475,
+    "protein_g": 28.35,
+    "fat_g": 13.5,
+    "saturated_fat_g": 2.25,
+    "carbs_g": 85.5,
+    "sugars_g": 8.1,
+    "fibre_g": 11.25,
+    "sodium_mg": 1327.5,
+    "calcium_mg": 99
+   },
+   "allergens": {
+    "contains": [
+     "Gluten",
+     "Wheat"
+    ],
+    "mayContain": [
+     "Peanuts",
+     "tree nuts",
+     "soy",
+     "sesame",
+     "sulphites",
+     "lupin",
+     "gluten and wheat"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "Calorie Controlled"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "arancini_240g",
+   "title": "Arancini",
+   "description": "Get ballsy with our gooey, cheesy, arancini! Ready in 5 minutes in your air fryer (180°C) or 2 minutes in the microwave. Ingredients: Risotto (80%) (Water, Rice, Onion, Tomato Paste, Tomato puree (Acidity Regulator (Citric Acid)), Canola Oil, Plant-based protein (Soy Protein, Thickeners (Methylcellulose, Potassium Chloride)), Beef Style Vegan Stock, Carrot, White Wine, Salt, Celery, Garlic, Oregano, Black Pepper, Cinnamon), Bolognese Filling (9%) (Vegan Cheese (Modified Starch (E1404, E1450)), T",
+   "tags": [
+    "240g",
+    "Plant-based",
+    "Sides",
+    "Size_Sides",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "9.95",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 240,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Soulara_Aranchini.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/arancini_240g",
+   "nutrition": {
+    "calories": 388,
+    "kilojoules": 1625,
+    "protein_g": 8.4,
+    "fat_g": 20.2,
+    "saturated_fat_g": 2.9,
+    "carbs_g": 60.5,
+    "sugars_g": 2.9,
+    "sodium_mg": 576
+   },
+   "allergens": {
+    "contains": [
+     "Soy & Gluten (wheat)"
+    ],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "plant-based-chicken-drumsticks_235g",
+   "title": "Plant Based Chicken Drumsticks",
+   "description": "Expertly seasoned, perfectly crisped, and entirely plant-based. These drumsticks are a masterclass in texture and flavour. A beautifully golden, crackly coating gives way to tender, protein-rich goodness. Five minutes in your air fryer at 180°C or microwave them for around 2 minutes. Ingredients: Water, Soy Protein Concentrate, Breader [Wheat Flour, Native Wheat Starch, Modified Starch (Starch Acetate), Yeast, Sugar, Raising Agents (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Rice Flour], Wh",
+   "tags": [
+    "235g",
+    "Plant-based",
+    "Sides",
+    "Size_Sides",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "9.00",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 235,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Soulara_Drumsticks.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/plant-based-chicken-drumsticks_235g",
+   "nutrition": {
+    "calories": 592,
+    "kilojoules": 2585,
+    "protein_g": 34.8,
+    "fat_g": 35.3,
+    "saturated_fat_g": 6.1,
+    "carbs_g": 40.7,
+    "sugars_g": 0,
+    "sodium_mg": 1518
+   },
+   "allergens": {
+    "contains": [
+     "Soy & Gluten (wheat)"
+    ],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "plant-based-chicken-popcorn_250g",
+   "title": "Plant Based Chicken Popcorn",
+   "description": "These bite-sized legends pack serious flavour and a good source of plant-based protein into every golden, crunchy bite. Five minutes in the air fryer at 180°C or 2 minutes in the microwave and they're ready for snacking or sharing. Ingredients: Water, Breader [Wheat Flour, Breadcrumb (Wheat Flour, Salt, Yeast, Sugar), Raising Agents (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Spice Extract], Predust [Modified Starch (Starch Acetate), Wheat Flour, Wheat Gluten, Salt, Vegetable Powders (Onion",
+   "tags": [
+    "250g",
+    "Plant-based",
+    "Sides",
+    "Size_Sides",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "9.00",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 250,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Soulara_Popcorn_Chicken.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/plant-based-chicken-popcorn_250g",
+   "nutrition": {
+    "calories": 635,
+    "kilojoules": 2658,
+    "protein_g": 28,
+    "fat_g": 37,
+    "saturated_fat_g": 6.8,
+    "carbs_g": 47.5,
+    "sugars_g": 0,
+    "sodium_mg": 1595
+   },
+   "allergens": {
+    "contains": [
+     "Soy & Gluten (wheat)"
+    ],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [
+    "Vegetarian"
+   ],
+   "benefits": [
+    "High Protein"
+   ],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "the-fresh-lunch-edit-pack",
+   "title": "The Fresh Lunch Edit Pack",
+   "description": "Pack includes: 5 Meals (5 x 350g) + 3 Snack Bars + 3 Juices",
+   "tags": [
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "71.55",
+   "compareAtPrice": "84.48",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/TheFreshLunchEditPack.png?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/the-fresh-lunch-edit-pack",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "amethyst-energy-copy",
+   "title": "Amethyst Energy (Large)",
+   "description": "Rich tomato and eggplant zaalouk served with a beetroot tfaya and a tri-coloured quinoa, green bean and green lentil salad. Spice Level: Mild 🌶️ Ingredients: Eggplant, crushed tomatoes, green lentils, green beans, quinoa, beetroot, sultanas, red onion, tomato paste, almonds, olive oil, garlic, apple cider vinegar, lemon juice, coconut sugar, lemon zest, mixed spices, black pepper, salt. Allergen Contains: tree nuts (almonds). Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphi",
+   "tags": [
+    "Glutenfree",
+    "Large",
+    "Meals",
+    "No Added Gluten",
+    "Plant Protein",
+    "Plant-based",
+    "Size_Large",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/AmethystEnergy.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/amethyst-energy-copy",
+   "nutrition": {
+    "calories": 414,
+    "kilojoules": 1732.5,
+    "protein_g": 14.85,
+    "fat_g": 12.15,
+    "saturated_fat_g": 69.3,
+    "carbs_g": 29.7,
+    "fibre_g": 1165.5
+   },
+   "allergens": {
+    "contains": [
+     "tree nuts (almonds)"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "healing-turmeric-soup-copy-1",
+   "title": "Golden Coconut Dahl (Medium)",
+   "description": "Mildly spiced lentil and coconut stew simmered with capsicum and tomato medley served with almond-adorned broccoli pilaf. Spice Level: Mild 🌶️ Ingredients: Broccoli, coconut cream, yellow lentils, red capsicum, yellow capsicum, onion, lemon, tomato paste, coconut aminos, olive oil, almonds, raisin, pumpkin seeds, mixed spices. Allergen Contains: Tree Nuts (Almonds) Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut, macadamia, ",
+   "tags": [
+    "350g",
+    "Glutenfree",
+    "Indian",
+    "Meals",
+    "Medium",
+    "No Added Gluten",
+    "Plant-based",
+    "Size_Medium",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/WhatsAppImage2026-03-27at06.04.06.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/healing-turmeric-soup-copy-1",
+   "nutrition": {
+    "calories": 297.5,
+    "kilojoules": 1242.5,
+    "protein_g": 13.3,
+    "fat_g": 9.8,
+    "saturated_fat_g": 37.8,
+    "carbs_g": 9.5,
+    "fibre_g": 294
+   },
+   "allergens": {
+    "contains": [
+     "Tree nuts (Almonds)"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "amethyst-energy-copy-2",
+   "title": "Healing Turmeric Soup (Medium)",
+   "description": "Coconut and vegetable broth simmered with lentils and fresh vegetables and spiced with vibrant turmeric. Spice Level: Mild 🌶️ Ingredients: Coconut cream, zucchini, onion, carrot, lentils, buckwheat, kale, vegetable stock, olive oil, almond flakes, mixed spices, salt, turmeric. Allergen Contains: Tree Nuts (Almonds) Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut, macadamia, pecan, pine nut, pistachio, walnut. Nutritional Inf",
+   "tags": [
+    "350g",
+    "Glutenfree",
+    "Meals",
+    "Medium",
+    "No Added Gluten",
+    "Plant Protein",
+    "Plant-based",
+    "Size_Medium",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/HealingTurmericSoup_73e70753-2c40-4daa-a4b8-ec9a9edc95c7.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/amethyst-energy-copy-2",
+   "nutrition": {
+    "calories": 282,
+    "kilojoules": 1180,
+    "protein_g": 10.5,
+    "fat_g": 9.8,
+    "saturated_fat_g": 34.8,
+    "carbs_g": 8.7,
+    "fibre_g": 120
+   },
+   "allergens": {
+    "contains": [
+     "Tree Nuts (Almonds)"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "h2coco-pure-coconut-water",
+   "title": "H2coco Pure Coconut Water 500ml",
+   "description": "Introducing The Greener Coconut Water. New look, new taste exclusively using young green coconuts and now MORE SUSTAINABLE. Pack of 1 Ingredients: Coconut Water (100%) Allergen Contains: none Nutritional Information: Average quantity per serve: 500ml Energy: 350 kJ / 83.65 Cal Protein: 0.5g Fat,total: 0g - saturated: 0g Carbohydrate: 20.5g - sugars: 17.5g Dietary fibre: 0g Potassium: 1050mg Magnesium: 215mg Sodium: 165mg Calcium: 75mg Average quantity per serve: 100ml Energy: 70 kJ / 16.73 Cal P",
+   "tags": [
+    "Cold Pressed Juice",
+    "Drinks"
+   ],
+   "productType": "Drinks",
+   "price": "3.15",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/H2coco_Pure_500ml_1.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/h2coco-pure-coconut-water",
+   "nutrition": {
+    "calories": 83.65,
+    "kilojoules": 350,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 20.5,
+    "sugars_g": 17.5,
+    "fibre_g": 0,
+    "sodium_mg": 165,
+    "calcium_mg": 75
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "h2coco-chocolate-coconut-water-500ml-x12",
+   "title": "H2coco Chocolate Coconut Water 500ml",
+   "description": "H2coco’s Chocolate Coconut Water is choc-full of indulgence! Thicker, creamier, and dangerously delicious, our guilt-free treat is a modern take on the Aussie fave choccy milk. Discover the ultimate guilt-free treat that combines indulgence with refreshment in every sip! Our creamy choccy milk is a modern take on an Aussie fave, crafted to satisfy your sweet cravings while staying true to your better-for-you lifestyle! Perfectly balanced to be refreshing and indulgent without that heavy feeling,",
+   "tags": [
+    "Cold Pressed Juice",
+    "Drinks",
+    "Vegan-Friendly"
+   ],
+   "productType": "Drinks",
+   "price": "3.15",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/H2coco-Choc-500mL-front.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/h2coco-chocolate-coconut-water-500ml-x12",
+   "nutrition": {
+    "calories": 152.96,
+    "kilojoules": 640,
+    "protein_g": 0,
+    "fat_g": 6,
+    "saturated_fat_g": 5,
+    "carbs_g": 23,
+    "sugars_g": 23,
+    "sodium_mg": 165,
+    "calcium_mg": 34
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "berry-nice-superfood-protein-bar",
+   "title": "Berry Nice Superfood Protein Bar",
+   "description": "A protein bar that is Berry Nice. A delightful blend of premium berries, dried fruits and nuts. These bars have a wonderful s oft, fudgy texture. Our Kuranda Wholefood's protein bars are all-natural, use a Cold Pressed Process , whereby all the wholefoods fantastic nutrients are retained in the product. This sets Kuranda Wholefood's products aside from others who bake or extrude their product, burning off nutrients. These are the healthiest, most natural and most delicious Protein Bars on the ma",
+   "tags": [
+    "Bars",
+    "High Protein",
+    "No Added Gluten",
+    "Pack of 1",
+    "Snacks",
+    "Vegan-Friendly"
+   ],
+   "productType": "Snacks",
+   "price": "3.75",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 50,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/GS1_ProteinBars_Berry.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/berry-nice-superfood-protein-bar",
+   "nutrition": {
+    "calories": 173,
+    "protein_g": 10,
+    "fat_g": 7,
+    "saturated_fat_g": 2,
+    "carbs_g": 15,
+    "sugars_g": 11,
+    "fibre_g": 8,
+    "sodium_mg": 84
+   },
+   "allergens": {
+    "contains": [
+     "Tree Nuts and Peanuts"
+    ],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "h2coco-coconut-water-with-mango",
+   "title": "H2coco Coconut Water with Mango 500ml",
+   "description": "Sweet, sun-ripened mangoes blended with refreshing coconut water - the ultimate tropical taste of summer. Pack of 1 Ingredients: Coconut Water(84%), Mango Juice(2%), Cane Juice, Natural Flavour. Allergen Contains: none Nutritional Information: Average quantity per serve: 500ml Energy: 560kJ / 133.84 Cal Protein: 0g Fat,total: 0g - saturated: 0g Carbohydrate: 34g - sugars: 33g Potassium: 560mg Magnesium: 165mg Sodium: 150mg Calcium: 60m g Average quantity per serve: 100ml Energy: 112kJ / 26.77 Ca",
+   "tags": [
+    "Cold Pressed Juice",
+    "Drinks"
+   ],
+   "productType": "Drinks",
+   "price": "3.15",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/9339655096467-1.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/h2coco-coconut-water-with-mango",
+   "nutrition": {
+    "calories": 133.84,
+    "kilojoules": 560,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 34,
+    "sugars_g": 33,
+    "sodium_mg": 150,
+    "calcium_mg": 60
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "h2juice-sparkling-passionfruit-500ml-x12",
+   "title": "H2juice Sparkling Passionfruit 500ml",
+   "description": "Satisfy your thirst with H2juice's Sparkling Passionfruit! This fizzy drink is all-natural and Plastic Neutral, meaning you can hydrate in style without any guilt. Grab this juicy goodness – and feel free to get a little bubbly! Its bubbly bubbles and 100% natural ingredients will quench your thirst and give you peace of mind. Get your fizzy fix today! Pack of 1 Ingredients: Carbonated Passionfruit Juice (80%), Water, Natural Sweetener (Stevia, Red Beet), Acidity Regulators (Citric Acid, Sodium ",
+   "tags": [
+    "Cold Pressed Juice",
+    "Drinks",
+    "Vegan-Friendly"
+   ],
+   "productType": "Drinks",
+   "price": "3.15",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/H2juiceSparklingPassionfruit.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/h2juice-sparkling-passionfruit-500ml-x12",
+   "nutrition": {
+    "calories": 191.2,
+    "kilojoules": 800,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 48,
+    "sugars_g": 43,
+    "fibre_g": 0,
+    "sodium_mg": 200
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "mushroom-bourguignon-garlic-mash",
+   "title": "Mushroom Bourguignon & Garlic Mash (Large)",
+   "description": "Button mushrooms simmered in red wine and rosemary, paired with a fluffy black garlic mash make for a perfect vegan take on a French classic Spice Level: Mild 🌶️ Ingredients: Potato (42%), Button Mushroom (24%), Onion, Carrot, Tomato Paste, Red Wine, Lemon Juice, Olive Oil, Minced Garlic, Salt, Black Garlic (0.5%), Black Pepper, Thyme, Rosemary, Oregano. Allergen Contains: none Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut",
+   "tags": [
+    "European",
+    "Glutenfree",
+    "Large",
+    "Meals",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Size_Large",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Soulara-MushroomBourguignon_GarlicMash.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/mushroom-bourguignon-garlic-mash",
+   "nutrition": {
+    "calories": 298,
+    "kilojoules": 1250,
+    "protein_g": 10.6,
+    "fat_g": 7.4,
+    "saturated_fat_g": 38.1,
+    "carbs_g": 9.6,
+    "fibre_g": 806,
+    "sodium_mg": 64.3
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "h2melon-500ml-x12-can",
+   "title": "H2melon Watermelon Water 500ml",
+   "description": "Straight from the melon to your mouth. Our melon juice is 100% natural and made from just one ingredient: pure, juicy watermelons! H2melon gives you that deliciously refreshing sensation without all the nasty additives. Pack of 1 Ingredients: Watermelon juice (100%) Allergen Contains: none Nutritional Information: Average quantity per serve: 500ml Energy: 975 kJ / 233.03 Cal Protein: 0g Fat,total: 0g - saturated: 0g Carbohydrate: 57.5g - sugars: 52.5g Dietary fibre: 0g Sodium: 200mg Vitamin C: 7",
+   "tags": [
+    "Cold Pressed Juice",
+    "Drinks"
+   ],
+   "productType": "Drinks",
+   "price": "3.15",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/3cd3d2fb-e78b-4c39-aafb-8b40dd5af6b5.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/h2melon-500ml-x12-can",
+   "nutrition": {
+    "calories": 233.03,
+    "kilojoules": 975,
+    "protein_g": 0,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 57.5,
+    "sugars_g": 52.5,
+    "fibre_g": 0,
+    "sodium_mg": 200
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "roasted-nut-cranberry-nut-bars",
+   "title": "Roasted Nut & Cranberry Nut Bars",
+   "description": "Feast on the goodness of scrumptious, wholesome roasted nuts and seeds with delicious juicy cranberries! They're your perfect protein pick-me-up! Buy Kuranda Gluten Free Roasted Nut & Cranberry Bar today - deliciously nutty mmmmmm An Artisan Recipe made with Australian Bee-Keeper Honey and Creamy Australian Peanut Butter, our Kuranda Premium Nut & Honey Bars are bursting with heart healthy nuts and seeds and perfect for anyone seeking a nutritious but delicious snack. Each and every bar is rolle",
+   "tags": [
+    "Bars",
+    "High Protein",
+    "No Added Dairy",
+    "No Added Gluten",
+    "No Added Wheat",
+    "Pack of 1",
+    "size_45g",
+    "Snacks"
+   ],
+   "productType": "Snacks",
+   "price": "3.75",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 45,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/NutBars_Cranberry_Nut.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/roasted-nut-cranberry-nut-bars",
+   "nutrition": {
+    "calories": 205,
+    "protein_g": 7.3,
+    "fat_g": 11.5,
+    "saturated_fat_g": 1.5,
+    "carbs_g": 13,
+    "sugars_g": 9.3,
+    "fibre_g": 3.2,
+    "sodium_mg": 3
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "peanut-caramel-protein-ball",
+   "title": "Peanut Caramel Protein Ball",
+   "description": "A delicious plant-based snack that is perfect any time of the day! Our Peanut Caramel Protein Balls are perfect pre or post-workout or when you need an energy boost. Plant-based goodness never tasted so good. Indulge yourself with this delicious and nutritious snack! Pack of 1",
+   "tags": [
+    "Bars",
+    "Pack of 1",
+    "Plant-based",
+    "Snacks"
+   ],
+   "productType": "Snacks",
+   "price": "3.75",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 40,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Kuranda_PeanutCaramel_ProteinBall40g_01.webp?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/peanut-caramel-protein-ball",
+   "nutrition": {
+    "calories": 148,
+    "protein_g": 10.2,
+    "fat_g": 6.2,
+    "saturated_fat_g": 1.8,
+    "carbs_g": 9.7,
+    "sugars_g": 7.9,
+    "fibre_g": 4.9,
+    "sodium_mg": 44
+   },
+   "allergens": {
+    "contains": [
+     "Peanuts",
+     "Sesame"
+    ],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "amethyst-energy-copy-1",
+   "title": "Healing Turmeric Soup (Large)",
+   "description": "Coconut and vegetable broth simmered with lentils and fresh vegetables and spiced with vibrant turmeric. Spice Level: Mild 🌶️ Ingredients: Coconut cream, zucchini, onion, carrot, lentils, buckwheat, kale, vegetable stock, olive oil, almond flakes, mixed spices, salt, turmeric. Allergen Contains: Tree Nuts (Almonds) Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut, macadamia, pecan, pine nut, pistachio, walnut. Nutritional Inf",
+   "tags": [
+    "Glutenfree",
+    "Large",
+    "Meals",
+    "No Added Gluten",
+    "Plant Protein",
+    "Size_Large",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/HealingTurmericSoup.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/amethyst-energy-copy-1",
+   "nutrition": {
+    "calories": 364.5,
+    "kilojoules": 1516.5,
+    "protein_g": 13.5,
+    "fat_g": 12.6,
+    "saturated_fat_g": 44.55,
+    "carbs_g": 11.25,
+    "fibre_g": 153
+   },
+   "allergens": {
+    "contains": [
+     "Tree Nuts (Almonds)"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "healing-turmeric-soup-copy",
+   "title": "Golden Coconut Dahl (Large)",
+   "description": "Mildly spiced lentil and coconut stew simmered with capsicum and tomato medley served with almond-adorned broccoli pilaf. Spice Level: Mild 🌶️ Ingredients: Broccoli, coconut cream, yellow lentils, red capsicum, yellow capsicum, onion, lemon, tomato paste, coconut aminos, olive oil, almonds, raisin, pumpkin seeds, mixed spices. Allergen Contains: Tree Nuts (Almonds) Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut, macadamia, ",
+   "tags": [
+    "Glutenfree",
+    "Indian",
+    "Large",
+    "Meals",
+    "No Added Gluten",
+    "Plant Protein",
+    "Size_Large",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "13.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 450,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/WhatsAppImage2026-03-27at06.04.06_ab41ac18-707f-44b5-a6eb-9a5cf7e51892.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/healing-turmeric-soup-copy",
+   "nutrition": {
+    "calories": 382.5,
+    "kilojoules": 1597.5,
+    "protein_g": 17.1,
+    "fat_g": 12.6,
+    "saturated_fat_g": 48.6,
+    "carbs_g": 12.2,
+    "fibre_g": 378
+   },
+   "allergens": {
+    "contains": [
+     "Tree nuts (Almonds)"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "amethyst-energy",
+   "title": "Amethyst Energy (Medium)",
+   "description": "Rich tomato and eggplant zaalouk served with a beetroot tfaya and a tri-coloured quinoa, green bean and green lentil salad. Spice Level: Mild 🌶️ Ingredients: Eggplant, crushed tomatoes, green lentils, green beans, quinoa, beetroot, sultanas, red onion, tomato paste, almonds, olive oil, garlic, apple cider vinegar, lemon juice, coconut sugar, lemon zest, mixed spices, black pepper, salt. Allergen Contains: tree nuts (almonds). Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphi",
+   "tags": [
+    "350g",
+    "Glutenfree",
+    "Meals",
+    "Medium",
+    "No Added Gluten",
+    "Plant Protein",
+    "Plant-based",
+    "Size_Medium",
+    "Vegan-Friendly"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/AmethystEnergy_31891d11-4ad3-4b99-839d-db40ce4d1d6c.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/amethyst-energy",
+   "nutrition": {
+    "calories": 322,
+    "kilojoules": 1346,
+    "protein_g": 11.6,
+    "fat_g": 9.4,
+    "saturated_fat_g": 53.9,
+    "carbs_g": 23.1,
+    "fibre_g": 906
+   },
+   "allergens": {
+    "contains": [
+     "tree nuts (almonds)"
+    ],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "mushroom-bourguignon-garlic-mash-copy",
+   "title": "Mushroom Bourguignon & Garlic Mash (Medium)",
+   "description": "Button mushrooms simmered in red wine and rosemary, paired with a fluffy black garlic mash make for a perfect vegan take on a French classic Spice Level: Mild 🌶️ Ingredients: Potato (42%), Button Mushroom (24%), Onion, Carrot, Tomato Paste, Red Wine, Lemon Juice, Olive Oil, Minced Garlic, Salt, Black Garlic (0.5%), Black Pepper, Thyme, Rosemary, Oregano. Allergen Contains: none Allergen May Contain: wheat, gluten, lupin, milk, soy, sesame, sulphites, peanut, almond, Brazil nut, cashew, hazelnut",
+   "tags": [
+    "European",
+    "Glutenfree",
+    "Meals",
+    "No Added Gluten",
+    "No Added Nuts",
+    "No Added Wheat",
+    "Size_Medium",
+    "Vegetarian"
+   ],
+   "productType": "Meals",
+   "price": "12.20",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 350,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Soulara-MushroomBourguignon_GarlicMash.jpg?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/mushroom-bourguignon-garlic-mash-copy",
+   "nutrition": {
+    "calories": 229,
+    "kilojoules": 960,
+    "protein_g": 8.2,
+    "fat_g": 5.7,
+    "saturated_fat_g": 29,
+    "carbs_g": 7.7,
+    "fibre_g": 637,
+    "sodium_mg": 50.8
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": "Mild",
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "the-gut-glow-lunch-edit-pack",
+   "title": "The Gut Glow Lunch Edit Pack",
+   "description": "Pack includes: 5 Meals (5 x 350g) + 3 Snack Bars + 3 Kombuchas",
+   "tags": [
+    "bundle",
+    "meal-pack"
+   ],
+   "productType": "Bundle",
+   "price": "69.85",
+   "compareAtPrice": "82.23",
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/TheGutGlowLunchEditPack.png?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/the-gut-glow-lunch-edit-pack",
+   "nutrition": null,
+   "allergens": {
+    "contains": [],
+    "mayContain": [
+     "wheat",
+     "gluten",
+     "lupin",
+     "milk",
+     "soy",
+     "sesame",
+     "sulphites",
+     "peanut",
+     "almond",
+     "Brazil nut",
+     "cashew",
+     "hazelnut",
+     "macadamia",
+     "pecan",
+     "pine nut",
+     "pistachio",
+     "walnut"
+    ]
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "id": "vitamin-c-booster-juice-size-300ml-1pack",
+   "title": "Vitamin C Booster Juice",
+   "description": "Nothing beats a delicious glass of OJ, the mother of all juices. Ours is cold-pressed from nothing but the sweetest, tastiest oranges we can find. Pack of 1 Ingredients: Orange (100%) Allergen Contains: none Nutritional Information: Average quantity per serve: 300ml Energy: 459kJ/ 110Cal Protein: 1.9g Fat,total: 0g - saturated: 0g Carbohydrate: 24.6g - sugar: 24.6g Sodium: 9mg Thiamine: 0.2mg Niacin: 1.9m g Vitamin C: 139mg Average quantity per serve: 100g Energy: 153kJ/ 36Cal Protein: 0.6g Fat,",
+   "tags": [
+    "1",
+    "300ML",
+    "Cold Pressed Juice",
+    "Drinks",
+    "Pack of 1",
+    "Plant-based"
+   ],
+   "productType": "Drinks",
+   "price": "5.05",
+   "compareAtPrice": null,
+   "currency": "AUD",
+   "grams": 0,
+   "available": true,
+   "image": "https://cdn.shopify.com/s/files/1/0784/2126/2485/files/Vitamin_C_Booster_Juice_Single.png?v=1778758618",
+   "url": "https://dev-soulara.myshopify.com/products/vitamin-c-booster-juice-size-300ml-1pack",
+   "nutrition": {
+    "calories": 110,
+    "kilojoules": 459,
+    "protein_g": 1.9,
+    "fat_g": 0,
+    "saturated_fat_g": 0,
+    "carbs_g": 24.6,
+    "sugars_g": 24.6,
+    "sodium_mg": 9
+   },
+   "allergens": {
+    "contains": [],
+    "mayContain": []
+   },
+   "spice": null,
+   "proteinTypes": [],
+   "benefits": [],
+   "rating": null,
+   "reviews": null
+  }
+ ]
+}

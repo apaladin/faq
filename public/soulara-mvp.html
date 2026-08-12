@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Soulara AI Assistant — client-side MVP</title>
+<!--
+  Test page for the client-side Soulara widget (soulara-widget.js).
+  The widget is 100% browser-based: catalog from soulara-catalog.json
+  (or live /products.json when hosted on soulara.com.au), OpenAI called
+  directly from the browser.
+
+  !! SECURITY !!
+  The key you save below lives only in THIS browser's localStorage.
+  Never publish a page or theme with a real key embedded — for the live
+  public store use the Node server in this repo instead.
+-->
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+         background: #f0f2f1; color: #222; }
+  .page { max-width: 720px; margin: 0 auto; padding: 32px 20px 120px; }
+  h1 { font-size: 22px; }
+  .note { background: #fff8e1; border: 1px solid #e6d9a8; border-radius: 10px;
+          padding: 12px 16px; font-size: 13px; line-height: 1.5; margin: 16px 0; }
+  .setup { background: #fff; border: 1px solid #ddd; border-radius: 10px; padding: 14px 16px;
+           display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: 14px; }
+  .setup input { flex: 1; min-width: 220px; padding: 8px 10px; border: 1px solid #ccc;
+                 border-radius: 8px; font-size: 13px; }
+  .setup button { background: #1a7f64; color: #fff; border: none; border-radius: 8px;
+                  padding: 8px 14px; font-size: 13px; font-weight: 600; cursor: pointer; }
+  .setup .status { font-size: 12px; color: #666; width: 100%; }
+  .snippet { background: #1e2a26; color: #d7e8e1; border-radius: 10px; padding: 14px 16px;
+             font-size: 12.5px; line-height: 1.6; overflow-x: auto; white-space: pre; }
+  h2 { font-size: 16px; margin-top: 28px; }
+  .try { font-size: 13px; color: #555; margin-top: 18px; line-height: 1.7; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Meet Flora 🌱 — Soulara's AI meal assistant (client-side MVP)</h1>
+
+  <div class="note">
+    <b>Private MVP only.</b> Flora calls the OpenAI API straight from your browser using the key
+    below (stored only in this browser's localStorage). Don't publish a page or theme with a real
+    key baked in — for the live store, use the Node server version so the key stays secret.
+  </div>
+
+  <div class="setup">
+    <input id="apiKey" type="password" placeholder="Paste your OpenAI API key (sk-...)" />
+    <button id="saveKey">Save key</button>
+    <div class="status" id="status"></div>
+  </div>
+
+  <div class="try">
+    Click Flora's face in the bottom-right corner and try:<br/>
+    "an Indian meal under 500 calories" · "high protein dinners, no nuts" ·
+    "do you deliver to Perth?" · "what makes Soulara different?"
+  </div>
+
+  <h2>Inject into your Shopify theme</h2>
+  <p style="font-size:13.5px; line-height:1.6;">
+    Host <code>soulara-widget.js</code> + <code>soulara-catalog.json</code> anywhere
+    (or upload the js to Shopify: Content → Files), then in
+    <b>Online Store → Themes → Edit code → layout/theme.liquid</b>, add before
+    <code>&lt;/body&gt;</code>:
+  </p>
+  <div class="snippet">&lt;script src="https://YOUR-HOST/soulara-widget.js"
+        data-openai-key="sk-..."
+        defer&gt;&lt;/script&gt;</div>
+  <p style="font-size:13px; color:#a05a00; line-height:1.6;">
+    ⚠️ A key in the script tag is visible to every visitor. Only do this on an
+    <b>unpublished preview theme</b>, with a low spending limit on the key — and rotate the key
+    afterwards. When the widget runs on soulara.com.au it automatically uses your live product
+    feed instead of the snapshot.
+  </p>
+</div>
+
+<script src="soulara-widget.js" defer></script>
+<script>
+  const keyInput = document.getElementById("apiKey");
+  const statusEl = document.getElementById("status");
+  const saved = localStorage.getItem("openai_key") || "";
+  if (saved) keyInput.value = saved;
+  statusEl.textContent = saved
+    ? "Key saved in this browser — click Flora to chat."
+    : "Paste your OpenAI key to start chatting.";
+  document.getElementById("saveKey").addEventListener("click", () => {
+    localStorage.setItem("openai_key", keyInput.value.trim());
+    statusEl.textContent = "Key saved in this browser — click Flora to chat.";
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Highlights & FAQ — Product Demo</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(ellipse 80% 50% at 10% 0%, #e8f0ea 0%, transparent 55%),
+        linear-gradient(180deg, #f7f6f2 0%, #efece4 100%);
+      color: #1a1a1a;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      min-height: 100vh;
+    }
+    .page { max-width: 960px; margin: 0 auto; padding: 40px 20px 80px; }
+    .eyebrow { font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: #666; margin: 0 0 8px; }
+    .pdp {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      align-items: start;
+    }
+    @media (max-width: 720px) {
+      .pdp { grid-template-columns: 1fr; gap: 24px; }
+    }
+    .media {
+      aspect-ratio: 1;
+      background: #ddd url("") center/cover no-repeat;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .media.placeholder {
+      display: grid;
+      place-items: center;
+      background: linear-gradient(145deg, #d8e2d9, #c5d0c4);
+      color: #445;
+      font-size: 14px;
+    }
+    .title {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.6rem, 3vw, 2.1rem);
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin: 0 0 10px;
+      line-height: 1.2;
+    }
+    .price { font-size: 1.15rem; font-weight: 600; margin: 0 0 16px; }
+    .desc { font-size: 15px; line-height: 1.6; color: #444; margin: 0 0 22px; }
+    .atc {
+      width: 100%;
+      max-width: 320px;
+      background: #1a1a1a;
+      color: #fff;
+      border: 0;
+      padding: 14px 18px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      border-radius: 6px;
+    }
+    .atc:active { transform: scale(0.99); }
+    .note {
+      margin-top: 28px;
+      font-size: 13px;
+      color: #666;
+      line-height: 1.5;
+    }
+    .note code { background: #eae7df; padding: 1px 6px; border-radius: 4px; }
+    .loading-product { color: #666; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <p class="eyebrow">Demo product page</p>
+    <div id="pdp" class="loading-product">Loading product…</div>
+    <p class="note">
+      Edit product data in <code>public/products.json</code>.
+      The accordion below calls <code>/api/faq/:id</code>; the OpenAI key stays on the server.
+    </p>
+  </div>
+
+  <script>
+    (async function () {
+      const pdp = document.getElementById("pdp");
+      try {
+        const res = await fetch("/api/products");
+        const data = await res.json();
+        const product = (data.products || [])[0];
+        if (!product) {
+          pdp.textContent = "No products in products.json — add at least one.";
+          return;
+        }
+
+        pdp.className = "pdp";
+        pdp.innerHTML = "";
+
+        const media = document.createElement("div");
+        media.className = "media" + (product.image ? "" : " placeholder");
+        if (product.image) {
+          const img = document.createElement("img");
+          img.src = product.image;
+          img.alt = product.title;
+          media.appendChild(img);
+        } else {
+          media.textContent = "No image";
+        }
+
+        const info = document.createElement("div");
+        const h1 = document.createElement("h1");
+        h1.className = "title";
+        h1.textContent = product.title;
+        const price = document.createElement("p");
+        price.className = "price";
+        price.textContent =
+          (product.currency || "AUD") + " $" + product.price;
+        const desc = document.createElement("p");
+        desc.className = "desc";
+        desc.textContent = product.description;
+        const atc = document.createElement("button");
+        atc.className = "atc";
+        atc.type = "button";
+        atc.textContent = "Add to cart";
+        atc.addEventListener("click", () => {
+          atc.textContent = "Added (demo)";
+          setTimeout(() => (atc.textContent = "Add to cart"), 1200);
+        });
+
+        const faqRoot = document.createElement("div");
+        faqRoot.id = "ai-faq-root";
+        faqRoot.setAttribute("data-product-id", product.id);
+
+        info.appendChild(h1);
+        info.appendChild(price);
+        info.appendChild(desc);
+        info.appendChild(atc);
+        info.appendChild(faqRoot);
+
+        pdp.appendChild(media);
+        pdp.appendChild(info);
+
+        const s = document.createElement("script");
+        s.src = "/faq-widget.js";
+        s.defer = true;
+        document.body.appendChild(s);
+      } catch (err) {
+        pdp.textContent = "Failed to load products: " + err.message;
+      }
+    })();
+  </script>
+</body>
+</html>

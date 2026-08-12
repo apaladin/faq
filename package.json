@@ -1,0 +1,20 @@
+{
+  "name": "shopify-recommendation-bot",
+  "version": "1.0.0",
+  "description": "AI shopping assistant chat widget for Shopify, powered by Claude",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "openai": "^4.77.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chat Widget Demo</title>
+  <style>
+    body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+           max-width: 700px; margin: 60px auto; padding: 0 20px; color: #333; }
+    h1 { font-size: 26px; }
+    code { background: #f2f2f2; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Store demo page</h1>
+  <p>This simulates a page on your Shopify store. The chat bubble in the
+     bottom-right corner is the AI shopping assistant.</p>
+  <p>Try messages like:</p>
+  <ul>
+    <li><em>"I'm looking for an Indian meal with less than 500 calories"</em></li>
+    <li><em>"Something for dinner"</em> (vague — the bot should ask follow-up questions)</li>
+    <li><em>"What vegan options do you have under $15?"</em></li>
+  </ul>
+
+  <!-- This is the same tag you'll add to your Shopify theme,
+       with data-api-url pointing at your deployed server. -->
+  <script src="/widget.js" data-api-url="" defer></script>
+</body>
+</html>

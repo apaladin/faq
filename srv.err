@@ -1,0 +1,11 @@
+Chat turn failed: Error: OPENAI_API_KEY is not set — add it to your .env file
+    at getClient (file:///C:/Users/1/Workspace/recommendation_bot/lib/ai.js:9:13)
+    at runChatTurn (file:///C:/Users/1/Workspace/recommendation_bot/lib/ai.js:101:28)
+    at file:///C:/Users/1/Workspace/recommendation_bot/server.js:58:39
+    at Layer.handle [as handle_request] (C:\Users\1\Workspace\recommendation_bot\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\1\Workspace\recommendation_bot\node_modules\express\lib\router\route.js:149:13)
+    at rateLimit (file:///C:/Users/1/Workspace/recommendation_bot/server.js:41:3)
+    at Layer.handle [as handle_request] (C:\Users\1\Workspace\recommendation_bot\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\1\Workspace\recommendation_bot\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\1\Workspace\recommendation_bot\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\1\Workspace\recommendation_bot\node_modules\express\lib\router\layer.js:95:5)
